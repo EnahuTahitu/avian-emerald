@@ -22,18 +22,18 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .growthRate = GROWTH_MEDIUM_SLOW,
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_OVERGROW, ABILITY_NONE, ABILITY_UNBURDEN },
-        .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Treecko"),
+        .bodyColor = BODY_COLOR_RED,
+        .speciesName = _("Bullfinch"),
         .cryId = CRY_TREECKO,
         .natDexNum = NATIONAL_DEX_TREECKO,
-        .categoryName = _("Wood Gecko"),
+        .categoryName = _("Finch"),
         .height = 5,
         .weight = 50,
         .description = COMPOUND_STRING(
-            "It makes its nest in a giant tree in the\n"
-            "forest. It ferociously guards against\n"
-            "anything nearing its territory. It is said\n"
-            "to be the protector of the forest's trees."),
+            "A bulky finch with a bright pinkish\n"
+            "breast. It is often seen in pairs\n"
+            "feeding on the buds of fruit trees\n"
+            "in European orchards."),
         .pokemonScale = 541,
         .pokemonOffset = 19,
         .trainerScale = 256,
@@ -315,17 +315,17 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
         .abilities = { ABILITY_BLAZE, ABILITY_NONE, ABILITY_SPEED_BOOST },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("Torchic"),
+        .speciesName = _("Robin"),
         .cryId = CRY_TORCHIC,
         .natDexNum = NATIONAL_DEX_TORCHIC,
-        .categoryName = _("Chick"),
+        .categoryName = _("Redbreast"),
         .height = 4,
         .weight = 25,
         .description = COMPOUND_STRING(
-            "If attacked, it strikes back by spitting\n"
-            "balls of fire it forms in its stomach.\n"
-            "A Torchic dislikes darkness because it\n"
-            "can't see its surroundings."),
+            "Famous for its orange-red breast,\n"
+            "this bird is a frequent visitor to\n"
+            "gardens. It is highly territorial\n"
+            "and sings year-round."),
         .pokemonScale = 566,
         .pokemonOffset = 19,
         .trainerScale = 256,
@@ -647,17 +647,17 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_WATER_1),
         .abilities = { ABILITY_TORRENT, ABILITY_NONE, ABILITY_DAMP },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Mudkip"),
+        .speciesName = _("Kingfisher"),
         .cryId = CRY_MUDKIP,
         .natDexNum = NATIONAL_DEX_MUDKIP,
-        .categoryName = _("Mud Fish"),
+        .categoryName = _("Diver"),
         .height = 4,
         .weight = 76,
         .description = COMPOUND_STRING(
-            "On land, it can powerfully lift large\n"
-            "boulders by planting its four feet and\n"
-            "heaving. It sleeps by burying itself in soil\n"
-            "at the water's edge."),
+            "A blue flash over the water. It\n"
+            "perches motionless before diving\n"
+            "at high speeds to catch small\n"
+            "fish in fresh water."),
         .pokemonScale = 535,
         .pokemonOffset = 20,
         .trainerScale = 256,
