@@ -3,7 +3,7 @@ SecretBase_Text_Trainer0Intro:
 	.string "I went here, there, everywhere before\n"
 	.string "choosing this place.\p"
 	.string "Since you're already here, how would\n"
-	.string "you like to battle?$"
+	.string "you like to territory clash?$"
 
 SecretBase_Text_Trainer0AcceptBattle:
 	.string "Okay!\n"
@@ -32,7 +32,7 @@ SecretBase_Text_Trainer5Intro:
 	.string "you can make a SECRET BASE.\p"
 	.string "But I like this spot best.\n"
 	.string "Don't you think it's nice?\p"
-	.string "Oh, would you like to have a battle?$"
+	.string "Oh, would you like to have a territory clash?$"
 
 SecretBase_Text_Trainer5AcceptBattle:
 	.string "Okay, here goes!$"
@@ -87,7 +87,7 @@ SecretBase_Text_Trainer1PreChampion:
 	.string "I finally got to use it!$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Welcome to my POKéMON LAB.\p"
+	.string "Welcome to my AVIMON LAB.\p"
 	.string "I carry out research on battling in\n"
 	.string "secrecy.\p"
 	.string "Would you like to see how strong I am?$"
@@ -108,7 +108,7 @@ SecretBase_Text_Trainer6PostBattle:
 	.string "Please come back again tomorrow.$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my POKéMON LAB.\p"
+	.string "Welcome to my AVIMON LAB.\p"
 	.string "I carry out research on battling in\n"
 	.string "secrecy.$"
 
@@ -117,7 +117,7 @@ SecretBase_Text_Trainer2Intro:
 	.string "sort of place more.\p"
 	.string "I like it because all kinds of people\n"
 	.string "come visit me.\p"
-	.string "So, how would you like a battle?$"
+	.string "So, how would you like a territory clash?$"
 
 SecretBase_Text_Trainer2AcceptBattle:
 	.string "That's the way!$"
@@ -127,7 +127,7 @@ SecretBase_Text_Trainer2DeclineBattle:
 
 SecretBase_Text_Trainer2Defeated::
 	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+	.string "But it's still fun to territory clash!$"
 
 SecretBase_Text_Trainer2PostBattle:
 	.string "Well, anyway, I should go buy some\n"
@@ -144,10 +144,10 @@ SecretBase_Text_Trainer2PreChampion:
 SecretBase_Text_Trainer7Intro:
 	.string "I simply adore shopping for decorations\n"
 	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
+	.string "I also love raising AVIMON just\n"
 	.string "as much.\p"
-	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+	.string "If you would be so kind, will you territory clash\n"
+	.string "with my AVIMON?$"
 
 SecretBase_Text_Trainer7AcceptBattle:
 	.string "Thank you.\n"
@@ -167,7 +167,7 @@ SecretBase_Text_Trainer7PostBattle:
 SecretBase_Text_Trainer7PreChampion:
 	.string "I simply adore shopping for decorations\n"
 	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
+	.string "I also love raising AVIMON just\n"
 	.string "as much.$"
 
 SecretBase_Text_Trainer3Intro:
@@ -175,7 +175,7 @@ SecretBase_Text_Trainer3Intro:
 	.string "hard-to-find places.\l"
 	.string "Do they want to just lie low?\p"
 	.string "But since you found me, how about we\n"
-	.string "have a battle?$"
+	.string "have a territory clash?$"
 
 SecretBase_Text_Trainer3AcceptBattle:
 	.string "I'm not going down easily!$"
@@ -201,14 +201,14 @@ SecretBase_Text_Trainer8Intro:
 	.string "decorations in several ways.\p"
 	.string "We should have a race to see who can\n"
 	.string "get nicer decorations and furniture!\p"
-	.string "In the meantime, want to battle?$"
+	.string "In the meantime, want to territory clash?$"
 
 SecretBase_Text_Trainer8AcceptBattle:
 	.string "This is my SECRET BASE.\n"
 	.string "I can't lose!$"
 
 SecretBase_Text_Trainer8DeclineBattle:
-	.string "I'll battle with you anytime.$"
+	.string "I'll territory clash with you anytime.$"
 
 SecretBase_Text_Trainer8Defeated::
 	.string "Huh?\n"
@@ -227,10 +227,10 @@ SecretBase_Text_Trainer8PreChampion:
 SecretBase_Text_Trainer4Intro:
 	.string "I found a spot I liked, and I did it up\n"
 	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
+	.string "I raise my favorite AVIMON and grow\n"
 	.string "stronger with it.\p"
 	.string "That's what I do.\n"
-	.string "Want to battle with me?$"
+	.string "Want to territory clash with me?$"
 
 SecretBase_Text_Trainer4AcceptBattle:
 	.string "Show me what you're made of!$"
@@ -249,7 +249,7 @@ SecretBase_Text_Trainer4PostBattle:
 SecretBase_Text_Trainer4PreChampion:
 	.string "I found a spot I liked, and I did it up\n"
 	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
+	.string "I raise my favorite AVIMON and grow\n"
 	.string "stronger with it.\p"
 	.string "Every day is a great day.$"
 
