@@ -41,8 +41,8 @@ gText_PlayerObtainedTheMon::
 	.string "the {STR_VAR_1}!$"
 
 gText_NoMoreRoomForPokemon::
-	.string "There's no more room for AVIMON!\p"
-	.string "The AVIMON BOXES are full and\n"
+	.string "There's no more room for Avimon!\p"
+	.string "The Avimon BOXES are full and\n"
 	.string "can't accept any more!$"
 
 gText_NicknameThisPokemon::

@@ -1,11 +1,11 @@
 LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
-	.string "This is the AVIMON LOTTERY CORNER.\p"
+	.string "This is the Avimon LOTTERY CORNER.\p"
 	.string "All shoppers at our DEPARTMENT STORE\n"
-	.string "get to draw an AVIMON LOTO TICKET.\p"
+	.string "get to draw an Avimon LOTO TICKET.\p"
 	.string "If the LOTO TICKET's number matches\n"
-	.string "the ID number of any of your AVIMON,\l"
+	.string "the ID number of any of your Avimon,\l"
 	.string "you will receive a fabulous gift.\p"
-	.string "Would you like to draw an AVIMON\n"
+	.string "Would you like to draw an Avimon\n"
 	.string "LOTO TICKET?$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
@@ -20,9 +20,9 @@ LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
 
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
 	.string "The LOTO TICKET number is {STR_VAR_1}.\p"
-	.string "I need to run a check on this number\n"
-	.string "to see if it matches any of your\l"
-	.string "AVIMON's ID numbers. Please wait.$"
+	.string "I need to take a check on this number\n"
+	.string "to spot if it matches any of your\l"
+	.string "Avimon's ID numbers. Please wait.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon:
 	.string "Congratulations!\p"
@@ -41,17 +41,17 @@ LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched:
 	.string "None of the numbers matched.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TwoDigitsMatched:
-	.string "Two digits matched, so you win the\n"
+	.string "Two digits matched, so you prevail the\n"
 	.string "third prize!\l"
 	.string "You've won the {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_ThreeDigitsMatched:
-	.string "Three digits matched, so you win the\n"
+	.string "Three digits matched, so you prevail the\n"
 	.string "second prize!\l"
 	.string "You've won the {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FourDigitsMatched:
-	.string "Four digits matched, so you win the\n"
+	.string "Four digits matched, so you prevail the\n"
 	.string "first prize!\l"
 	.string "You've won the {STR_VAR_1}!$"
 

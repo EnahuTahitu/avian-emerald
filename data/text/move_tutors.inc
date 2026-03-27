@@ -3,25 +3,25 @@ MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
 	.string "once. Is that okay?$"
 
 MoveTutor_Text_SwaggerTeach:
-	.string "Heh! My AVIMON totally rules!\n"
-	.string "It's cooler than any AVIMON!\p"
+	.string "Heh! My Avimon totally rules!\n"
+	.string "It's cooler than any Avimon!\p"
 	.string "I was lipping off with a swagger in\n"
 	.string "my step like that when the CHAIRMAN\l"
 	.string "chewed me out.\p"
 	.string "That took the swagger out of my step.\p"
 	.string "If you'd like, I'll teach the move\n"
-	.string "SWAGGER to an AVIMON of yours.$"
+	.string "SWAGGER to an Avimon of yours.$"
 
 MoveTutor_Text_SwaggerDeclined:
 	.string "What, no? Can't you get into\n"
 	.string "the spirit of things?$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "All right, which AVIMON wants to\n"
+	.string "All right, which Avimon wants to\n"
 	.string "learn how to SWAGGER?$"
 
 MoveTutor_Text_SwaggerTaught:
-	.string "I'll just praise my AVIMON from now\n"
+	.string "I'll just praise my Avimon from now\n"
 	.string "on without the swagger.$"
 
 MoveTutor_Text_RolloutTeach:
@@ -30,7 +30,7 @@ MoveTutor_Text_RolloutTeach:
 	.string "without changing direction?\p"
 	.string "I might even be able to roll\n"
 	.string "that way.\p"
-	.string "Do you think your AVIMON will\n"
+	.string "Do you think your Avimon will\n"
 	.string "want to roll, too?\p"
 	.string "I can teach one the move ROLLOUT\n"
 	.string "if you'd like.$"
@@ -41,7 +41,7 @@ MoveTutor_Text_RolloutDeclined:
 
 MoveTutor_Text_RolloutWhichMon:
 	.string "Ehehe, sure thing! It'd be great if\n"
-	.string "the AVIMON looked like me.$"
+	.string "the Avimon looked like me.$"
 
 MoveTutor_Text_RolloutTaught:
 	.string "Rolling around in the grass makes me\n"
@@ -53,17 +53,17 @@ MoveTutor_Text_FuryCutterTeach:
 	.string "It's a BUG-type move, and it is\n"
 	.string "wickedly cool.\p"
 	.string "It's called FURY CUTTER.\n"
-	.string "Want me to teach it to an AVIMON?$"
+	.string "Want me to teach it to an Avimon?$"
 
 MoveTutor_Text_FuryCutterDeclined:
 	.string "We're not on the same wavelength.$"
 
 MoveTutor_Text_FuryCutterWhichMon:
 	.string "Yay!\n"
-	.string "Show me which AVIMON I should teach.$"
+	.string "Show me which Avimon I should teach.$"
 
 MoveTutor_Text_FuryCutterTaught:
-	.string "I get a thrill watching to see if\n"
+	.string "I get a thrill watching to spot if\n"
 	.string "the move keeps hitting in succession!$"
 
 MoveTutor_MimicTeach:
@@ -77,11 +77,11 @@ MoveTutor_MimicTeach:
 
 MoveTutor_MimicDeclined:
 	.string "Oh, boo! I wanted to teach MIMIC\n"
-	.string "to your AVIMON!$"
+	.string "to your Avimon!$"
 
 MoveTutor_Text_MimicWhichMon:
 	.string "Fwofwo! And so I shall!\n"
-	.string "Let me see the AVIMON\l"
+	.string "Let me spot the Avimon\l"
 	.string "you wish me to teach.$"
 
 MoveTutor_Text_MimicTaught:
@@ -95,9 +95,9 @@ MoveTutor_Text_MetronomeTeach:
 	.string "Wouldn't it be nice if there were\n"
 	.string "a spell that made money appear when\l"
 	.string "you waggle a finger?\p"
-	.string "If you want, I can teach your AVIMON\n"
+	.string "If you want, I can teach your Avimon\n"
 	.string "the move METRONOME.\p"
-	.string "Money won't appear, but your AVIMON\n"
+	.string "Money won't appear, but your Avimon\n"
 	.string "will waggle a finger. Yes?$"
 
 MoveTutor_Text_MetronomeDeclined:
@@ -106,10 +106,10 @@ MoveTutor_Text_MetronomeDeclined:
 
 MoveTutor_Text_MetronomeWhichMon:
 	.string "Okay! I'll teach it!\n"
-	.string "Which AVIMON should I teach?$"
+	.string "Which Avimon should I teach?$"
 
 MoveTutor_Text_MetronomeTaught:
-	.string "When an AVIMON waggles its finger\n"
+	.string "When an Avimon waggles its finger\n"
 	.string "like a METRONOME, all sorts of nice\l"
 	.string "things happen.\p"
 	.string "Wouldn't it be nice if we could\n"
@@ -120,7 +120,7 @@ MoveTutor_Text_SleepTalkTeach:
 	.string "POWER to stay awake.\p"
 	.string "She should just take a nap like I do,\n"
 	.string "and SLEEP TALK.\p"
-	.string "I can teach your AVIMON how to\n"
+	.string "I can teach your Avimon how to\n"
 	.string "SLEEP TALK instead. Interested?$"
 
 MoveTutor_Text_SleepTalkDeclined:
@@ -129,7 +129,7 @@ MoveTutor_Text_SleepTalkDeclined:
 
 MoveTutor_Text_SleepTalkWhichMon:
 	.string "Ah, an appreciative child!\n"
-	.string "Which AVIMON should I teach?$"
+	.string "Which Avimon should I teach?$"
 
 MoveTutor_Text_SleepTalkTaught:
 	.string "I've never once gotten my wife's\n"
@@ -146,16 +146,16 @@ MoveTutor_Text_SubstituteTeach:
 	.string "Of course it's not possible.\n"
 	.string "Giggle…\p"
 	.string "I know! Would you be interested in\n"
-	.string "having an AVIMON learn SUBSTITUTE?$"
+	.string "having an Avimon learn SUBSTITUTE?$"
 
 MoveTutor_Text_SubstituteDeclined:
 	.string "Oh, no?\p"
-	.string "A AVIMON can make a copy of\n"
+	.string "A Avimon can make a copy of\n"
 	.string "itself using it, you know.$"
 
 MoveTutor_Text_SubstituteWhichMon:
 	.string "Giggle…\n"
-	.string "Which AVIMON do you want me to\l"
+	.string "Which Avimon do you want me to\l"
 	.string "teach SUBSTITUTE?$"
 
 MoveTutor_Text_SubstituteTaught:
@@ -167,14 +167,14 @@ MoveTutor_Text_DynamicPunchTeach:
 	.string "I can't do this anymore!\p"
 	.string "It's utterly hopeless!\p"
 	.string "I'm a FIGHTING-type BIRD KEEPER,\n"
-	.string "so I can't win at the MOSSDEEP GYM\l"
+	.string "so I can't prevail at the MOSSDEEP GYM\l"
 	.string "no matter how hard I try!\p"
 	.string "Argh! Punch! Punch! Punch!\n"
 	.string "Punch! Punch! Punch!\p"
 	.string "What, don't look at me that way!\n"
 	.string "I'm only hitting the ground!\p"
 	.string "Or do you want me to teach your\n"
-	.string "AVIMON DYNAMICPUNCH?$"
+	.string "Avimon DYNAMICPUNCH?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
 	.string "Darn! You're even making fun of me?\n"
@@ -182,10 +182,10 @@ MoveTutor_Text_DynamicPunchDeclined:
 
 MoveTutor_Text_DynamicPunchWhichMon:
 	.string "What? You do? You're a good person!\n"
-	.string "Which AVIMON should I teach?$"
+	.string "Which Avimon should I teach?$"
 
 MoveTutor_Text_DynamicPunchTaught:
-	.string "I want you to win at the MOSSDEEP GYM\n"
+	.string "I want you to prevail at the MOSSDEEP GYM\n"
 	.string "using that DYNAMICPUNCH!$"
 
 MoveTutor_Text_DoubleEdgeTeach:
@@ -196,7 +196,7 @@ MoveTutor_Text_DoubleEdgeTeach:
 	.string "rivals for his attention.\p"
 	.string "He's got appeal with a DOUBLE-EDGE.\n"
 	.string "I couldn't even catch his eye.\p"
-	.string "Please, let me teach your AVIMON\n"
+	.string "Please, let me teach your Avimon\n"
 	.string "the move DOUBLE-EDGE!$"
 
 MoveTutor_Text_DoubleEdgeDeclined:
@@ -204,7 +204,7 @@ MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Even you rejected me…$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Okay, which AVIMON should I teach\n"
+	.string "Okay, which Avimon should I teach\n"
 	.string "DOUBLE-EDGE?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
@@ -219,7 +219,7 @@ MoveTutor_Text_ExplosionTeach:
 	.string "Seriously, I'm going to cause\n"
 	.string "a huge EXPLOSION of popularity!\p"
 	.string "If you overheard that, I'll happily\n"
-	.string "teach EXPLOSION to your AVIMON!$"
+	.string "teach EXPLOSION to your Avimon!$"
 
 MoveTutor_Text_ExplosionDeclined:
 	.string "Gaah! You're turning me down because\n"
@@ -227,10 +227,10 @@ MoveTutor_Text_ExplosionDeclined:
 
 MoveTutor_Text_ExplosionWhichMon:
 	.string "Fine! An EXPLOSION it is!\n"
-	.string "Which AVIMON wants to blow up?$"
+	.string "Which Avimon wants to blow up?$"
 
 MoveTutor_Text_ExplosionTaught:
-	.string "For a long time, I've taught AVIMON\n"
+	.string "For a long time, I've taught Avimon\n"
 	.string "how to use EXPLOSION, but I've yet\l"
 	.string "to ignite my own EXPLOSION…\p"
 	.string "Maybe it's because deep down,\n"

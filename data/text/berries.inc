@@ -4,16 +4,16 @@ PetalburgCity_Gym_Text_GiveEnigmaBerry:
 	.string "I'd like you to have it.$"
 
 Route104_Text_PlantBerriesInSoilTakeThis:
-	.string "If you see BERRIES growing in loamy\n"
+	.string "If you spot BERRIES growing in loamy\n"
 	.string "soil, feel free to take them.\p"
 	.string "But make sure you plant a BERRY in the\n"
 	.string "same spot. That's common courtesy.\p"
 	.string "Here, I'll share this with you.$"
 
 Route104_Text_TrainersOftenMakeMonHoldBerries:
-	.string "The way you look, you must be a\n"
+	.string "The way you observe, you must be a\n"
 	.string "BIRD KEEPER, no?\p"
-	.string "BIRD KEEPERS often make AVIMON hold\n"
+	.string "BIRD KEEPERS often make Avimon hold\n"
 	.string "BERRIES.\p"
 	.string "It's up to you whether to grow BERRIES\n"
 	.string "or use them.$"
@@ -31,7 +31,7 @@ Route111_Text_GoingToTryToMakeDifferentColorBerries:
 	.string "I hope you try hard, too!$"
 
 Route111_Text_WhatColorBerriesToLookForToday:
-	.string "I wonder what color BERRIES I'll look\n"
+	.string "I wonder what color BERRIES I'll observe\n"
 	.string "for today?$"
 
 Route114_Text_LoveUsingBerryCrushShareBerry:
@@ -86,7 +86,7 @@ LilycoveCity_Text_BecauseYoureTrainer:
 LilycoveCity_Text_PokeblocksSuitPokemon:
 	.string "When it gets right down to it…\p"
 	.string "The way dignified simplicity suits me,\n"
-	.string "{POKEBLOCK}S perfectly suit AVIMON.$"
+	.string "{POKEBLOCK}S perfectly suit Avimon.$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
 	.string "You may call me the BERRY MASTER.\p"
@@ -158,7 +158,7 @@ Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
 	.string "A planted BERRY will soon sprout,\n"
 	.string "grow into a plant, flower beautifully,\l"
 	.string "then grow BERRIES again.\p"
-	.string "I want to see the whole wide world\n"
+	.string "I want to spot the whole wide world\n"
 	.string "filled with beautiful flowers.\l"
 	.string "That's my dream.\p"
 	.string "Please help me, {PLAYER}{KUN}. Plant BERRIES\n"
@@ -193,10 +193,10 @@ Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
 
 Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "You can plant a BERRY and grow it big,\n"
-	.string "or you can make an AVIMON hold it.\p"
+	.string "or you can make an Avimon hold it.\p"
 	.string "But now they have a machine that mixes\n"
 	.string "up different BERRIES and makes candies\l"
-	.string "for AVIMON.\p"
+	.string "for Avimon.\p"
 	.string "I want some candy, too.$"
 
 SootopolisCity_Text_NameIsKiriHaveOneOfThese:

@@ -161,7 +161,7 @@ gOakSpeech_Text_AskPlayerGender::
 gPikachuIntro_Text_Page1::
 	.string "In the world which you are about to\n"
 	.string "enter, you will embark on a grand\n"
-	.string "migration with you as the hero.\n"
+	.string "migration like Arctic terns traveling pole to pole with you as the hero.\n"
 	.string "\n"
 	.string "Speak to people and check things\n"
 	.string "wherever you go, be it towns, roads,\n"
@@ -178,34 +178,34 @@ gPikachuIntro_Text_Page2::
 	.string "Be brave and keep pushing on.$"
 
 gPikachuIntro_Text_Page3::
-	.string "Through your migration, we hope\n"
+	.string "Through your migration like Arctic terns traveling pole to pole, we hope\n"
 	.string "that you will interact with all sorts\n"
 	.string "of people and achieve personal growth.\n"
 	.string "That is our biggest objective.\n"
 	.string "\n"
 	.string "Press the A Button, and let your\n"
-	.string "migration begin!$"
+	.string "migration like Arctic terns traveling pole to pole begin!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
 	.string "Hello, there!\n"
 	.string "Glad to meet you!\p"
-	.string "Welcome to the world of AVIMON!\p"
+	.string "Welcome to the world of Avimon!\p"
 	.string "My name is OAK.\p"
 	.string "People affectionately refer to me\n"
-	.string "as the AVIMON PROFESSOR.\p$"
+	.string "as the Avimon PROFESSOR.\p$"
 
 gOakSpeech_Text_ThisWorld::
 	.string "This world…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
 	.string "…is inhabited far and wide by\n"
-	.string "creatures called AVIMON.\p$"
+	.string "creatures called Avimon.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-	.string "For some people, AVIMON are pets.\n"
+	.string "For some people, Avimon are pets.\n"
 	.string "Others use them for battling.\p"
 	.string "As for myself…\p"
-	.string "I study AVIMON as a profession.\p$"
+	.string "I study Avimon as a profession.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
 	.string "But first, tell me a little about\n"
@@ -237,7 +237,7 @@ gOakSpeech_Text_RememberRivalsName::
 
 gOakSpeech_Text_LetsGo::
 	.string "{PLAYER}!\p"
-	.string "Your very own AVIMON legend is\n"
+	.string "Your very own Avimon legend is\n"
 	.string "about to unfold!\p"
 	.string "A world of dreams and migrations\n"
-	.string "with AVIMON awaits! Let's go!$"
+	.string "with Avimon awaits! Let's go!$"

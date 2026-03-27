@@ -145,27 +145,27 @@ VermilionCity_PokemonFanClub_Text_Seel::
 	.string "SEEL: Kyuoo!$"
 
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
-	.string "I chair the POKéMON Fan Club!\p"
+	.string "I chair the Avimon Fan Club!\p"
 	.string "I raise more than a hundred\n"
-	.string "POKéMON!\p"
+	.string "Avimon!\p"
 	.string "I'm very fussy when it comes to\n"
-	.string "POKéMON! I surely am!\p"
+	.string "Avimon! I surely am!\p"
 	.string "So…\p"
 	.string "Did you come visit to hear about\n"
-	.string "my POKéMON?$"
+	.string "my Avimon?$"
 
 VermilionCity_PokemonFanClub_Text_ChairmansStory::
 	.string "Good!\n"
 	.string "Then listen up!\p"
 	.string "My favorite RAPIDASH…\p"
-	.string "It's…cute…lovely…smart… \n"
+	.string "It's…cute…lovely…think… \n"
 	.string "plus…amazing…you think so?…\l"
 	.string "oh yes…it's…stunning…\l"
 	.string "kindly…love it!\p"
 	.string "Hug it…when…sleeping…warm\n"
 	.string "and cuddly…spectacular…\l"
 	.string "ravishing…\l"
-	.string "…Oops! Look at the time!\l"
+	.string "…Oops! look at the time!\l"
 	.string "I kept you too long!\p"
 	.string "Thanks for hearing me out!\n"
 	.string "I want you to have this!$"
@@ -180,7 +180,7 @@ VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
 	.string "Exchange that for a BICYCLE\n"
 	.string "free of charge!\p"
 	.string "Don't worry, my favorite FEAROW\n"
-	.string "will FLY me anywhere I need to go.\p"
+	.string "will flight me anywhere I need to go.\p"
 	.string "So, I have no need for a BICYCLE.\p"
 	.string "I hope you like cycling!$"
 
@@ -190,8 +190,8 @@ VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
 	.string "Hello, {PLAYER}!\p"
-	.string "Did you come see me about my\n"
-	.string "POKéMON again?\p"
+	.string "Did you come spot me about my\n"
+	.string "Avimon again?\p"
 	.string "No?\n"
 	.string "Too bad!$"
 
@@ -200,7 +200,7 @@ VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
 	.string "Our CHAIRMAN is very vocal about\n"
-	.string "POKéMON.$"
+	.string "Avimon.$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
 	.string "Let's all listen politely to other\n"
@@ -211,6 +211,6 @@ VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
 
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
 	.string "Our CHAIRMAN really does adore his\n"
-	.string "POKéMON.\p"
+	.string "Avimon.\p"
 	.string "But the person who is most liked by\n"
-	.string "POKéMON is DAISY, I think.$"
+	.string "Avimon is DAISY, I think.$"

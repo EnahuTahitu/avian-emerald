@@ -381,7 +381,7 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_YellowFlute::
 
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
 	.string "I sure do fancy that PORYGON!\n"
-	.string "But, it's hard to win at slots!$"
+	.string "But, it's hard to prevail at slots!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
 	.string "Gahaha! I raked it in today!\n"

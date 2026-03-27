@@ -90,7 +90,7 @@ RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
 	.string "Welcome to the PEPPER household.\p"
 	.string "I have a question for you.\n"
 	.string "Have you ever baby-sat?\p"
-	.string "You see, I'm a new father, so raising\n"
+	.string "You spot, I'm a new father, so raising\n"
 	.string "a child is all new to me.\p"
 	.string "And I have a problem. My daughter\n"
 	.string "WALDA doesn't laugh enough.\p"
@@ -139,7 +139,7 @@ RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
 	.string "I'd better think for myself, then.\p"
 	.string "Hmm…\n"
 	.string "How about “{STR_VAR_1}”?\l"
-	.string "Let's see if that will work.$"
+	.string "Let's spot if that will work.$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "{STR_VAR_1}.\n"
@@ -158,19 +158,19 @@ RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "Thank you!\p"
 	.string "Thanks to you, my darling WALDA\n"
 	.string "laughed for me!\p"
-	.string "Actually, I may not look all that\n"
+	.string "Actually, I may not observe all that\n"
 	.string "special, but I'm one of DEVON\l"
 	.string "CORPORATION's top researchers.\p"
 	.string "So, how about I do something in return\n"
 	.string "for you?\p"
 	.string "I know, I'll add some new wallpaper\n"
 	.string "patterns for the BOXES in the PC\l"
-	.string "POKéMON Storage System.\p"
+	.string "Avimon Storage System.\p"
 	.string "In the wallpaper pattern menu,\n"
 	.string "select “FRIENDS.”\p"
 	.string "That will give you access to the new\n"
 	.string "wallpaper patterns.$"
 
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "It's a POKéMON plush DOLL!$"
+	.string "It's a Avimon plush DOLL!$"
 

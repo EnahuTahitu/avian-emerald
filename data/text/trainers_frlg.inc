@@ -16,7 +16,7 @@ Route3_Text_GregRematchIntro::
 	.string "Let's get with it right away!$"
 
 Route3_Text_SallyRematchIntro::
-	.string "That look you give me…\n"
+	.string "That observe you give me…\n"
 	.string "It intrigues me so!$"
 
 Route3_Text_CalvinRematchIntro::
@@ -24,7 +24,7 @@ Route3_Text_CalvinRematchIntro::
 	.string "You're still not wearing shorts!$"
 
 Route3_Text_JamesRematchIntro::
-	.string "I'll clash with you using the AVIMON\n"
+	.string "I'll clash with you using the Avimon\n"
 	.string "I started raising.$"
 
 Route3_Text_RobinRematchIntro::
@@ -32,7 +32,7 @@ Route3_Text_RobinRematchIntro::
 	.string "Did you push me?$"
 
 Route4_Text_CrissyRematchIntro::
-	.string "I always catch mushroom AVIMON\n"
+	.string "I always catch mushroom Avimon\n"
 	.string "on MT. MOON.$"
 
 Route6_Text_RickyRematchIntro::
@@ -47,7 +47,7 @@ Route6_Text_NancyRematchIntro::
 
 Route6_Text_KeigoRematchIntro::
 	.string "I'm trying to find something good\n"
-	.string "that's not a BUG AVIMON, but…$"
+	.string "that's not a BUG Avimon, but…$"
 
 Route6_Text_JeffRematchIntro::
 	.string "Huh?\n"
@@ -62,7 +62,7 @@ Route6_Text_ElijahRematchIntro::
 	.string "Have you gotten better?$"
 
 Route8_Text_AidanRematchIntro::
-	.string "You are good at AVIMON, but how\n"
+	.string "You are good at Avimon, but how\n"
 	.string "is your chemistry grade?$"
 
 Route8_Text_StanRematchIntro::
@@ -70,7 +70,7 @@ Route8_Text_StanRematchIntro::
 	.string "Let's play another game!$"
 
 Route8_Text_GlennRematchIntro::
-	.string "You need strategy to win at\n"
+	.string "You need strategy to prevail at\n"
 	.string "battling.\p"
 	.string "Are you following my advice?$"
 
@@ -80,14 +80,14 @@ Route8_Text_PaigeRematchIntro::
 
 Route8_Text_LeslieRematchIntro::
 	.string "School is fun, but I still think\n"
-	.string "AVIMON are fun, too.$"
+	.string "Avimon are fun, too.$"
 
 Route8_Text_AndreaRematchIntro::
 	.string "MEOWTH and PERSIAN are so cute,\n"
 	.string "meow, meow, meow!$"
 
 Route8_Text_MeganRematchIntro::
-	.string "We may look silly standing here\n"
+	.string "We may observe silly standing here\n"
 	.string "like this, but I can still territory clash.$"
 
 Route8_Text_RichRematchIntro::
@@ -96,7 +96,7 @@ Route8_Text_RichRematchIntro::
 
 Route8_Text_JuliaRematchIntro::
 	.string "What's a cute, round, and fluffy\n"
-	.string "AVIMON?\p"
+	.string "Avimon?\p"
 	.string "You already know, don't you?$"
 
 Route8_Text_RicardoRematchIntro::
@@ -119,7 +119,7 @@ Route9_Text_AliciaRematchIntro::
 
 Route9_Text_ChrisRematchIntro::
 	.string "I haven't forgotten you were with\n"
-	.string "those good-looking AVIMON.$"
+	.string "those good-looking Avimon.$"
 
 Route9_Text_DrewRematchIntro::
 	.string "I'm taking ROCK TUNNEL to go to\n"
@@ -141,19 +141,19 @@ Route9_Text_BriceRematchIntro::
 
 Route9_Text_BrentRematchIntro::
 	.string "I got up early every day to train\n"
-	.string "my AVIMON from cocoons!$"
+	.string "my Avimon from cocoons!$"
 
 Route9_Text_AlanRematchIntro::
 	.string "Hahahaha!\n"
-	.string "I'll win this time!$"
+	.string "I'll prevail this time!$"
 
 Route9_Text_ConnerRematchIntro::
-	.string "Go win, my super BUG AVIMON!$"
+	.string "Go prevail, my super BUG Avimon!$"
 
 Route10_Text_MarkRematchIntro::
 	.string "Wow, you came here again?\n"
 	.string "Maybe you're a POKéMANIAC, too?\l"
-	.string "Want to see my collection?$"
+	.string "Want to spot my collection?$"
 
 Route10_Text_ClarkRematchIntro::
 	.string "Ha-hahah-ah-ha!\n"
@@ -161,10 +161,10 @@ Route10_Text_ClarkRematchIntro::
 
 Route10_Text_HermanRematchIntro::
 	.string "Hi, kid!\n"
-	.string "Did I show you my AVIMON?$"
+	.string "Did I show you my Avimon?$"
 
 Route10_Text_HeidiRematchIntro::
-	.string "I went out to an AVIMON GYM again.\p"
+	.string "I went out to an Avimon GYM again.\p"
 	.string "…But I lost as usual.$"
 
 Route10_Text_TrentRematchIntro::
@@ -177,7 +177,7 @@ Route10_Text_CarolRematchIntro::
 	.string "I've been hiking for too long…$"
 
 Route11_Text_HugoRematchIntro::
-	.string "Win, lose, or draw!\n"
+	.string "prevail, lose, or draw!\n"
 	.string "Now for our rematch!$"
 
 Route11_Text_JasperRematchIntro::
@@ -195,7 +195,7 @@ Route11_Text_BraxtonRematchIntro::
 
 Route11_Text_DillonRematchIntro::
 	.string "I became a BIRD KEEPER a while ago.\n"
-	.string "But, I think I can win.$"
+	.string "But, I think I can prevail.$"
 
 Route11_Text_DirkRematchIntro::
 	.string "Fwahaha!\n"
@@ -210,15 +210,15 @@ Route11_Text_DarianRematchIntro::
 
 Route11_Text_YasuRematchIntro::
 	.string "I'm the best in my class.\n"
-	.string "I train every morning and night!$"
+	.string "I train every morning and as quiet as owls whose feather edges reduce sound!$"
 
 Route11_Text_BernieRematchIntro::
 	.string "Keep your eyes out for live wires!$"
 
 Route11_Text_DaveRematchIntro::
-	.string "I raised my AVIMON carefully.\n"
+	.string "I raised my Avimon carefully.\n"
 	.string "They should be ready by now.\l"
-	.string "This time, they should win, too.$"
+	.string "This time, they should prevail, too.$"
 
 Route12_Text_NedRematchIntro::
 	.string "Yeah!\n"
@@ -236,11 +236,11 @@ Route12_Text_JustinRematchIntro::
 Route12_Text_LucaRematchIntro::
 	.string "Electricity has always been my\n"
 	.string "specialty.\p"
-	.string "I don't know a thing about AVIMON\n"
+	.string "I don't know a thing about Avimon\n"
 	.string "of the sea, though.$"
 
 Route12_Text_HankRematchIntro::
-	.string "The FISHING FOOL vs. AVIMON KID!\n"
+	.string "The FISHING FOOL vs. Avimon KID!\n"
 	.string "Another round, fight!$"
 
 Route12_Text_ElliotRematchIntro::
@@ -254,16 +254,16 @@ Route12_Text_AndrewRematchIntro::
 	.string "me!$"
 
 Route12_Text_JesRematchIntro::
-	.string "JES: I'll win here today and\n"
+	.string "JES: I'll prevail here today and\n"
 	.string "propose to my GIA.$"
 
 Route12_Text_GiaRematchIntro::
 	.string "GIA: Hey, JES…\n"
 	.string "I've been waiting a long time now.\p"
-	.string "If we win today, I'll marry you!$"
+	.string "If we prevail today, I'll marry you!$"
 
 Route13_Text_SebastianRematchIntro::
-	.string "My bird AVIMON remember you!$"
+	.string "My bird Avimon remember you!$"
 
 Route13_Text_SusieRematchIntro::
 	.string "I want to be the best BIRD KEEPER \n"
@@ -274,7 +274,7 @@ Route13_Text_ValerieRematchIntro::
 	.string "You got more cool BADGES!$"
 
 Route13_Text_GwenRematchIntro::
-	.string "My cutely grown AVIMON wish to\n"
+	.string "My cutely grown Avimon wish to\n"
 	.string "become reacquainted with you.$"
 
 Route13_Text_AlmaRematchIntro::
@@ -298,25 +298,25 @@ Route13_Text_JaredRematchIntro::
 	.string "What're you starin' at?$"
 
 Route13_Text_RobertRematchIntro::
-	.string "I always go with bird AVIMON.\n"
+	.string "I always go with bird Avimon.\n"
 	.string "I've dedicated myself to them.$"
 
 Route14_Text_CarterRematchIntro::
 	.string "I used TMs to teach good moves\n"
-	.string "to my AVIMON.$"
+	.string "to my Avimon.$"
 
 Route14_Text_MitchRematchIntro::
-	.string "My bird AVIMON should be ready\n"
+	.string "My bird Avimon should be ready\n"
 	.string "for territory clash this time.$"
 
 Route14_Text_BeckRematchIntro::
-	.string "Are you using TMs on AVIMON?\n"
+	.string "Are you using TMs on Avimon?\n"
 	.string "Just holding them is useless.$"
 
 Route14_Text_MarlonRematchIntro::
-	.string "Have you taught your bird AVIMON\n"
-	.string "how to FLY?\p"
-	.string "You'll be able to soar with it into\n"
+	.string "Have you taught your bird Avimon\n"
+	.string "how to flight?\p"
+	.string "You'll be able to flight with it into\n"
 	.string "the sky! Give it a try.$"
 
 Route14_Text_DonaldRematchIntro::
@@ -342,27 +342,27 @@ Route14_Text_GeraldRematchIntro::
 	.string "the wide-open spaces.$"
 
 Route14_Text_MalikRematchIntro::
-	.string "AVIMON territory clash, right?\n"
+	.string "Avimon territory clash, right?\n"
 	.string "Cool! Rumble!$"
 
 Route14_Text_KiriRematchIntro::
-	.string "KIRI: JAN, I hope we win today.$"
+	.string "KIRI: JAN, I hope we prevail today.$"
 
 Route14_Text_JanRematchIntro::
 	.string "JAN: KIRI, here we go!\n"
-	.string "Let's win for sure this time!$"
+	.string "Let's prevail for sure this time!$"
 
 Route15_Text_KindraRematchIntro::
 	.string "I'm going to keep battling with the\n"
-	.string "AVIMON I got in trades.$"
+	.string "Avimon I got in trades.$"
 
 Route15_Text_BeckyRematchIntro::
-	.string "You look gentle, so I think I can\n"
+	.string "You observe gentle, so I think I can\n"
 	.string "beat you.\p"
 	.string "I'll give it one more go!$"
 
 Route15_Text_EdwinRematchIntro::
-	.string "When I whistle, bird AVIMON\n"
+	.string "When I whistle, bird Avimon\n"
 	.string "gather around.\p"
 	.string "They're amazingly cute!$"
 
@@ -372,11 +372,11 @@ Route15_Text_ChesterRematchIntro::
 
 Route15_Text_GraceRematchIntro::
 	.string "Oh, you're a little cutie!\n"
-	.string "So like a darling AVIMON!\l"
+	.string "So like a darling Avimon!\l"
 	.string "I remember you now!$"
 
 Route15_Text_OliviaRematchIntro::
-	.string "I raise AVIMON for protection\n"
+	.string "I raise Avimon for protection\n"
 	.string "because I live alone.\p"
 	.string "That hasn't changed.$"
 
@@ -390,10 +390,10 @@ Route15_Text_AlexRematchIntro::
 
 Route15_Text_CeliaRematchIntro::
 	.string "What's cool and happening?\n"
-	.string "Trading AVIMON, of course.$"
+	.string "Trading Avimon, of course.$"
 
 Route15_Text_YazminRematchIntro::
-	.string "Want to play with my AVIMON\n"
+	.string "Want to play with my Avimon\n"
 	.string "again?$"
 
 Route15_Text_MyaRematchIntro::
@@ -411,7 +411,7 @@ Route16_Text_LaoRematchIntro::
 
 Route16_Text_KojiRematchIntro::
 	.string "Nice BIKE!\n"
-	.string "Hand it over quick!$"
+	.string "Hand it over fast!$"
 
 Route16_Text_LukeRematchIntro::
 	.string "Come out and play, little mouse.\n"
@@ -430,7 +430,7 @@ Route16_Text_RubenRematchIntro::
 	.string "We'll have ourselves a good time!$"
 
 Route16_Text_JedRematchIntro::
-	.string "JED: Are you here to see our\n"
+	.string "JED: Are you here to spot our\n"
 	.string "love, which knows no bounds?$"
 
 Route16_Text_LeaRematchIntro::
@@ -439,7 +439,7 @@ Route16_Text_LeaRematchIntro::
 
 Route17_Text_RaulRematchIntro::
 	.string "I told you, there's no getting rich\n"
-	.string "quick in battling kids.$"
+	.string "fast in battling kids.$"
 
 Route17_Text_IsaiahRematchIntro::
 	.string "I'm mighty proud of my bod, kiddo.\n"
@@ -457,7 +457,7 @@ Route17_Text_NikolasRematchIntro::
 	.string "electrify you today!$"
 
 Route17_Text_ZeekRematchIntro::
-	.string "I leveled up my AVIMON, but it\n"
+	.string "I leveled up my Avimon, but it\n"
 	.string "absolutely won't evolve. Why?$"
 
 Route17_Text_JamalRematchIntro::
@@ -477,7 +477,7 @@ Route17_Text_WilliamRematchIntro::
 
 Route18_Text_WiltonRematchIntro::
 	.string "I've been checking every grassy\n"
-	.string "area for new AVIMON.\p"
+	.string "area for new Avimon.\p"
 	.string "But it's not always easy…$"
 
 Route18_Text_RamiroRematchIntro::
@@ -506,7 +506,7 @@ Route19_Text_DouglasRematchIntro::
 	.string "Have you seen?$"
 
 Route19_Text_DavidRematchIntro::
-	.string "I tried diving for AVIMON again,\n"
+	.string "I tried diving for Avimon again,\n"
 	.string "but it was a no-go like before.$"
 
 Route19_Text_TonyRematchIntro::
@@ -516,9 +516,9 @@ Route19_Text_TonyRematchIntro::
 
 Route19_Text_AnyaRematchIntro::
 	.string "You always get to ride your\n"
-	.string "AVIMON…\p"
+	.string "Avimon…\p"
 	.string "It looks so relaxing.\n"
-	.string "Can I have it if I win?$"
+	.string "Can I have it if I prevail?$"
 
 Route19_Text_AliceRematchIntro::
 	.string "Swimming's great!\n"
@@ -541,7 +541,7 @@ Route19_Text_LiaRematchIntro::
 
 Route19_Text_LucRematchIntro::
 	.string "LUC: My big sis taught me all\n"
-	.string "about AVIMON.\p"
+	.string "about Avimon.\p"
 	.string "I wonder if I'm better?$"
 
 Route20_Text_BarryRematchIntro::
@@ -565,11 +565,11 @@ Route20_Text_DeanRematchIntro::
 	.string "before!$"
 
 Route20_Text_DarrinRematchIntro::
-	.string "Why are you riding an AVIMON?\n"
+	.string "Why are you riding an Avimon?\n"
 	.string "Haven't you learned to swim yet?$"
 
 Route20_Text_RogerRematchIntro::
-	.string "I rode my bird AVIMON here.$"
+	.string "I rode my bird Avimon here.$"
 
 Route20_Text_NoraRematchIntro::
 	.string "My boyfriend gave me big pearls.\n"
@@ -581,7 +581,7 @@ Route20_Text_MissyRematchIntro::
 
 Route20_Text_MelissaRematchIntro::
 	.string "CINNABAR, in the west, has a LAB\n"
-	.string "for AVIMON.\p"
+	.string "for Avimon.\p"
 	.string "My daddy works there.$"
 
 Route21_North_Text_RonaldRematchIntro::
@@ -601,7 +601,7 @@ Route21_North_Text_CueBallRematchIntro::
 	.string "きちまったぜ$"
 
 Route21_South_Text_JackRematchIntro::
-	.string "I caught my AVIMON at sea.\n"
+	.string "I caught my Avimon at sea.\n"
 	.string "And that's where I train them.$"
 
 Route21_South_Text_JeromeRematchIntro::
@@ -650,7 +650,7 @@ Route25_Text_ChadRematchIntro::
 	.string "I knew I had to clash with you again!$"
 
 Route25_Text_HaleyRematchIntro::
-	.string "My friend has many cute AVIMON.\n"
+	.string "My friend has many cute Avimon.\n"
 	.string "I'm so jealous!$"
 
 Route25_Text_FranklinRematchIntro::
@@ -662,7 +662,7 @@ Route25_Text_NobRematchIntro::
 	.string "Have you seen his collection?$"
 
 Route25_Text_WayneRematchIntro::
-	.string "You're going to see BILL again?\n"
+	.string "You're going to spot BILL again?\n"
 	.string "First, we territory clash!$"
 
 Route24_Text_ShaneRematchIntro::
@@ -673,7 +673,7 @@ Route24_Text_EthanRematchIntro::
 	.string "I'll stomp you!$"
 
 Route24_Text_ReliRematchIntro::
-	.string "You always look so busy…\n"
+	.string "You always observe so busy…\n"
 	.string "Aren't you getting tired?$"
 
 Route24_Text_TimmyRematchIntro::
@@ -710,7 +710,7 @@ OneIsland_KindleRoad_Text_FinnRematchIntro::
 
 OneIsland_KindleRoad_Text_GarrettRematchIntro::
 	.string "I have this strong feeling that\n"
-	.string "I can win this time!$"
+	.string "I can prevail this time!$"
 
 OneIsland_KindleRoad_Text_TommyRematchIntro::
 	.string "Wait! Wait a second!\n"
@@ -731,7 +731,7 @@ OneIsland_KindleRoad_Text_SheaRematchIntro::
 
 OneIsland_KindleRoad_Text_HughRematchIntro::
 	.string "Dress appropriately for territory clash!\n"
-	.string "Lose that frivolous outfit, I said!$"
+	.string "lose that frivolous outfit, I said!$"
 
 OneIsland_KindleRoad_Text_BryceRematchIntro::
 	.string "You know, everything tastes great\n"
@@ -764,7 +764,7 @@ ThreeIsland_BondBridge_Text_AmiraRematchIntro::
 
 ThreeIsland_BondBridge_Text_AlexisRematchIntro::
 	.string "Yay, yay!\n"
-	.string "AVIMON!$"
+	.string "Avimon!$"
 
 ThreeIsland_BondBridge_Text_TishaRematchIntro::
 	.string "Oh, no, didn't I tell you already?\n"
@@ -779,7 +779,7 @@ ThreeIsland_BondBridge_Text_MegRematchIntro::
 
 FiveIsland_WaterLabyrinth_Text_AlizeRematchIntro::
 	.string "Oh, hello!\p"
-	.string "Are you raising your AVIMON in a\n"
+	.string "Are you raising your Avimon in a\n"
 	.string "good environment?$"
 
 FiveIsland_ResortGorgeous_Text_DaisyRematchIntro::
@@ -801,12 +801,12 @@ FiveIsland_ResortGorgeous_Text_JackiRematchIntro::
 
 FiveIsland_ResortGorgeous_Text_GillianRematchIntro::
 	.string "They're almost finished making the\n"
-	.string "pool for my AVIMON.\p"
+	.string "pool for my Avimon.\p"
 	.string "You must drop in for a visit.$"
 
 FiveIsland_ResortGorgeous_Text_DestinRematchIntro::
 	.string "I'm a good runner.\n"
-	.string "I've gotten even faster!$"
+	.string "I've gotten even fast!$"
 
 FiveIsland_ResortGorgeous_Text_TobyRematchIntro::
 	.string "I say, friend!\n"
@@ -821,14 +821,14 @@ FiveIsland_MemorialPillar_Text_MiloRematchIntro::
 FiveIsland_MemorialPillar_Text_ChazRematchIntro::
 	.string "I'm the middle kid of the BIRD\n"
 	.string "BROTHERS.\p"
-	.string "I'm the one that loves wings.\n"
+	.string "I'm the one that loves flight.\n"
 	.string "Let's territory clash again!$"
 
 FiveIsland_MemorialPillar_Text_HaroldRematchIntro::
 	.string "I'm the youngest of the BIRD\n"
 	.string "BROTHERS.\p"
 	.string "I love birds for their down.\n"
-	.string "I didn't think I'd see you again!$"
+	.string "I didn't think I'd spot you again!$"
 
 SixIsland_OutcastIsland_Text_TylorRematchIntro::
 	.string "I'm still having no luck at all.\n"
@@ -879,11 +879,11 @@ SixIsland_WaterPath_Text_EarlRematchIntro::
 	.string "mountains around these parts?$"
 
 SixIsland_WaterPath_Text_MiuRematchIntro::
-	.string "MIU: Hello, AVIMON!\n"
+	.string "MIU: Hello, Avimon!\n"
 	.string "It's time to play again!$"
 
 SixIsland_WaterPath_Text_MiaRematchIntro::
-	.string "MIA: Hello, AVIMON!\n"
+	.string "MIA: Hello, Avimon!\n"
 	.string "It's time to territory clash again!$"
 
 SixIsland_RuinValley_Text_StanlyRematchIntro::
@@ -912,7 +912,7 @@ SevenIsland_TrainerTower_Text_DarioRematchIntro::
 
 SevenIsland_TrainerTower_Text_RodetteRematchIntro::
 	.string "Somewhere on this island, peculiar\n"
-	.string "AVIMON are sleeping.$"
+	.string "Avimon are sleeping.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahRematchIntro::
 	.string "Kyahaha!\p"
@@ -929,7 +929,7 @@ SevenIsland_SevaultCanyon_Entrance_Text_NicolasRematchIntro::
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineRematchIntro::
 	.string "I don't forgive people who abuse\n"
-	.string "AVIMON!$"
+	.string "Avimon!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveRematchIntro::
 	.string "EVE: I'll team up with JON and\n"
@@ -945,7 +945,7 @@ SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
 	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest AVIMON…\p"
+	.string "have the strongest Avimon…\p"
 	.string "It doesn't mean a thing if you don't\n"
 	.string "know how to use them properly!$"
 
@@ -969,18 +969,18 @@ SevenIsland_SevaultCanyon_Text_MichelleRematchIntro::
 
 SevenIsland_SevaultCanyon_Text_LexRematchIntro::
 	.string "LEX: My darling NYA, together\n"
-	.string "we will win for certain!$"
+	.string "we will prevail for certain!$"
 
 SevenIsland_SevaultCanyon_Text_NyaRematchIntro::
 	.string "NYA: I won't drag down my mentor\n"
-	.string "LEX! We're going to win!$"
+	.string "LEX! We're going to prevail!$"
 
 SevenIsland_TanobyRuins_Text_BrandonRematchIntro::
 	.string "Have you discovered anything about\n"
 	.string "this stone chamber?$"
 
 SevenIsland_TanobyRuins_Text_BenjaminRematchIntro::
-	.string "A mystic AVIMON is said to sleep\n"
+	.string "A mystic Avimon is said to sleep\n"
 	.string "inside here.$"
 
 SevenIsland_TanobyRuins_Text_EdnaRematchIntro::
@@ -989,4 +989,4 @@ SevenIsland_TanobyRuins_Text_EdnaRematchIntro::
 
 SevenIsland_TanobyRuins_Text_CliffordRematchIntro::
 	.string "Today, in addition to our lesson,\n"
-	.string "we came to see the chamber again.$"
+	.string "we came to spot the chamber again.$"

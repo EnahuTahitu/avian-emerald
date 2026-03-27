@@ -1,5 +1,5 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-	.string "I'm looking for the AVIMON\n"
+	.string "I'm looking for the Avimon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Wanna trade one for my\n"
 	.string "{STR_VAR_2}?$"
@@ -30,7 +30,7 @@ Trade_Text_WellIfYouDontWantTo::
 Trade_Text_ThisIsntMon::
 	.string "Hmmm?\n"
 	.string "This isn't a {STR_VAR_1}.\p"
-	.string "Think of me if you get one.$"
+	.string "think of me if you get one.$"
 
 Trade_Text_Thanks::
 	.string "Thanks!$"

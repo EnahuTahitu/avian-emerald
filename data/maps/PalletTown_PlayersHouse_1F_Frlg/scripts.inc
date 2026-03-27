@@ -69,11 +69,11 @@ PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
 	.string "MOM: {PLAYER}!\n"
-	.string "You should take a quick rest.$"
+	.string "You should take a fast rest.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
 	.string "MOM: Oh, good! You and your\n"
-	.string "POKéMON are looking great.\l"
+	.string "Avimon are looking great.\l"
 	.string "Take care now!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::

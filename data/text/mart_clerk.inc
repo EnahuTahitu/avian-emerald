@@ -1,10 +1,10 @@
 gText_HowMayIServeYou::
 	.string "Welcome!\p"
-	.string "How may I serve you?$"
+	.string "How can I assist your fieldwork?$"
 
 gText_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Please visit again, and keep observing!$"
 
 gText_PlayerWhatCanIDoForYou::
 	.string "{PLAYER}{STRING 5}, welcome!\p"
-	.string "What can I do for you?$"
+	.string "How can I help your next field trip?$"

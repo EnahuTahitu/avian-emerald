@@ -61,7 +61,7 @@ CeladonCity_DepartmentStore_2F_TMs::
 	end
 
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-	.string "SUPER REPEL keeps weak POKéMON at\n"
+	.string "SUPER REPEL keeps weak Avimon at\n"
 	.string "bay…\p"
 	.string "Hmm, it's a more powerful REPEL.$"
 
@@ -71,7 +71,7 @@ CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
 
 CeladonCity_DepartmentStore_2F_Text_FloorSign::
 	.string "Top-Grade Items for TRAINERS!\p"
-	.string "2F: TRAINER'S MARKET$"
+	.string "2F: Ornithologist'S MARKET$"
 
 CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
 	.string "We have a customer, LANCE, who\n"

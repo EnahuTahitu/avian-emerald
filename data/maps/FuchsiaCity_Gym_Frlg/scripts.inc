@@ -100,7 +100,7 @@ FuchsiaCity_Gym_Text_KogaIntro::
 	.string "Poison brings steady doom.\n"
 	.string "Sleep renders foes helpless.\p"
 	.string "Despair to the creeping horror of\n"
-	.string "POISON-type POKéMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "POISON-type Avimon!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
 	.string "Humph!\n"
@@ -109,17 +109,17 @@ FuchsiaCity_Gym_Text_KogaDefeat::
 	.string "Take the SOULBADGE!$"
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
-	.string "When afflicted by TOXIC, a POKéMON\n"
+	.string "When afflicted by TOXIC, a Avimon\n"
 	.string "suffers more and more.\p"
 	.string "It suffers worsening damage as the\n"
-	.string "battle wears on!\p"
+	.string "field study wears on!\p"
 	.string "It will surely terrorize foes!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
 	.string "Now that you have the SOULBADGE,\n"
-	.string "the DEFENSE of your POKéMON rises.\p"
+	.string "the DEFENSE of your Avimon rises.\p"
 	.string "It also lets you SURF outside of\n"
-	.string "battle.\p"
+	.string "field study.\p"
 	.string "Ah!\n"
 	.string "Take this, too!$"
 
@@ -137,9 +137,9 @@ FuchsiaCity_Gym_Text_MakeSpaceForThis::
 	.string "Make space for this, child!$"
 
 FuchsiaCity_Gym_Text_KaydenIntro::
-	.string "Strength isn't the key for POKéMON.\n"
+	.string "Strength isn't the key for Avimon.\n"
 	.string "Do you understand this?\p"
-	.string "POKéMON is about strategy!\p"
+	.string "Avimon is about strategy!\p"
 	.string "I'll show you how strategy can\n"
 	.string "beat brute strength.$"
 
@@ -151,7 +151,7 @@ FuchsiaCity_Gym_Text_KaydenPostBattle::
 	.string "So, you mix brawn with brains?\n"
 	.string "Good strategy!\p"
 	.string "That's remarkable for a child\n"
-	.string "TRAINER.$"
+	.string "Ornithologist.$"
 
 FuchsiaCity_Gym_Text_KirkIntro::
 	.string "I was a magician once upon a time.\p"
@@ -167,7 +167,7 @@ FuchsiaCity_Gym_Text_KirkPostBattle::
 	.string "of KOGA, my ninja master.$"
 
 FuchsiaCity_Gym_Text_NateIntro::
-	.string "Let's see you beat my special\n"
+	.string "Let's spot you beat my special\n"
 	.string "techniques!$"
 
 FuchsiaCity_Gym_Text_NateDefeat::
@@ -175,7 +175,7 @@ FuchsiaCity_Gym_Text_NateDefeat::
 
 FuchsiaCity_Gym_Text_NatePostBattle::
 	.string "I like poison and sleep techniques,\n"
-	.string "as they linger after battle!$"
+	.string "as they linger after field study!$"
 
 FuchsiaCity_Gym_Text_PhilIntro::
 	.string "Stop right there!\p"
@@ -189,7 +189,7 @@ FuchsiaCity_Gym_Text_PhilDefeat::
 FuchsiaCity_Gym_Text_PhilPostBattle::
 	.string "You impressed me!\n"
 	.string "Here's a hint!\p"
-	.string "Look very closely for gaps in the\n"
+	.string "observe very closely for gaps in the\n"
 	.string "invisible walls!$"
 
 FuchsiaCity_Gym_Text_EdgarIntro::
@@ -234,13 +234,13 @@ FuchsiaCity_Gym_Text_GymGuyPostVictory::
 	.string "even now!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
-	.string "FUCHSIA POKéMON GYM\n"
+	.string "FUCHSIA Avimon GYM\n"
 	.string "LEADER: KOGA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-	.string "FUCHSIA POKéMON GYM\n"
+	.string "FUCHSIA Avimon GYM\n"
 	.string "LEADER: KOGA\p"
 	.string "WINNING TRAINERS:\n"
 	.string "{RIVAL}, {PLAYER}$"

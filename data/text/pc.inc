@@ -8,7 +8,7 @@ gText_AccessedSomeonesPC::
 	.string "Accessed SOMEONE'S PC.$"
 
 gText_StorageSystemOpened::
-	.string "AVIMON Storage System opened.$"
+	.string "Avimon Storage System opened.$"
 
 gText_AccessedPlayersPC::
 	.string "Accessed {PLAYER}'s PC.$"

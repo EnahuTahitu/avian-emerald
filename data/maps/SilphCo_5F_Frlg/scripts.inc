@@ -78,7 +78,7 @@ SilphCo_5F_Text_Grunt1PostBattle::
 	.string "TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-	.string "We study POKé BALL technology on\n"
+	.string "We study NESTING SPHERE technology on\n"
 	.string "this floor.$"
 
 SilphCo_5F_Text_BeauDefeat::
@@ -113,18 +113,18 @@ SilphCo_5F_Text_Grunt2PostBattle::
 	.string "KOFFING evolves into WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-	.string "It's a POKéMON REPORT!\p"
-	.string "POKéMON LAB created PORYGON,\n"
-	.string "the first virtual-reality POKéMON.$"
+	.string "It's a AVIMON REPORT!\p"
+	.string "AVIMON LAB created PORYGON,\n"
+	.string "the first virtual-reality AVIMON.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-	.string "It's a POKéMON REPORT!\p"
-	.string "Over 350 POKéMON techniques have\n"
+	.string "It's a AVIMON REPORT!\p"
+	.string "Over 350 AVIMON techniques have\n"
 	.string "been confirmed.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-	.string "It's a POKéMON REPORT!\p"
-	.string "Some POKéMON have been confirmed\n"
+	.string "It's a AVIMON REPORT!\p"
+	.string "Some AVIMON have been confirmed\n"
 	.string "to evolve when they are traded.$"
 
 SilphCo_5F_Text_FloorSign::
@@ -135,6 +135,6 @@ SilphCo_5F_Text_RocketBossLookingForStrongMons::
 	.string "Those thugs that took over our\n"
 	.string "building…\p"
 	.string "Their BOSS said he was looking for\n"
-	.string "strong POKéMON.\p"
+	.string "strong AVIMON.\p"
 	.string "I hope our PRESIDENT managed to\n"
 	.string "avoid trouble…$"

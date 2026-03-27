@@ -105,37 +105,37 @@ ViridianCity_School_Text_ReadBlackboardCarefully::
 ViridianCity_School_Text_NotebookFirstPage::
 	.string "Let's check out the notebook.\p"
 	.string "First page…\p"
-	.string "POKé BALLS are used to catch\n"
-	.string "POKéMON.\p"
-	.string "Up to six POKéMON can be carried\n"
+	.string "NESTING SPHERES are used to catch\n"
+	.string "Avimon.\p"
+	.string "Up to six Avimon can be carried\n"
 	.string "in your party.\p"
-	.string "People who raise and battle\n"
-	.string "with POKéMON are called TRAINERS.$"
+	.string "People who raise and field study\n"
+	.string "with Avimon are called TRAINERS.$"
 
 ViridianCity_School_Text_NotebookSecondPage::
 	.string "Second page…\p"
-	.string "A healthy POKéMON may be hard to\n"
+	.string "A healthy Avimon may be hard to\n"
 	.string "catch, so weaken it first.\p"
 	.string "Poison, burn, or cause another\n"
 	.string "status problem to weaken it.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
 	.string "Third page…\p"
-	.string "POKéMON TRAINERS seek others to\n"
-	.string "engage in POKéMON battles.\p"
+	.string "Avimon TRAINERS seek others to\n"
+	.string "engage in Avimon battles.\p"
 	.string "To TRAINERS, the taste of victory\n"
 	.string "is sweet, indeed.\p"
 	.string "Battles are constantly waged at\n"
-	.string "POKéMON GYMS everywhere.$"
+	.string "Avimon GYMS everywhere.$"
 
 ViridianCity_School_Text_NotebookFourthPage::
 	.string "Fourth page…\p"
-	.string "The ultimate goal for all POKéMON\n"
+	.string "The ultimate goal for all Avimon\n"
 	.string "TRAINERS is simple.\p"
 	.string "It is to defeat the top eight\n"
-	.string "POKéMON GYM LEADERS.\p"
+	.string "Avimon GYM LEADERS.\p"
 	.string "Do so to earn the right to face…\p"
-	.string "The ELITE FOUR of the POKéMON\n"
+	.string "The ELITE FOUR of the Avimon\n"
 	.string "LEAGUE!$"
 
 ViridianCity_School_Text_TurnThePage::
@@ -146,16 +146,16 @@ ViridianCity_School_Text_HeyDontLookAtMyNotes::
 	.string "Don't look at my notes!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
-	.string "The blackboard lists POKéMON\n"
+	.string "The blackboard lists Avimon\n"
 	.string "STATUS problems during battles.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
 	.string "Which topic do you want to read?$"
 
 ViridianCity_School_Text_ExplainSleep::
-	.string "A POKéMON can't attack if it's\n"
+	.string "A Avimon can't attack if it's\n"
 	.string "asleep.\p"
-	.string "POKéMON will stay asleep even\n"
+	.string "Avimon will stay asleep even\n"
 	.string "after battles.\p"
 	.string "Use AWAKENING to awaken one\n"
 	.string "from sleep.$"
@@ -163,26 +163,26 @@ ViridianCity_School_Text_ExplainSleep::
 ViridianCity_School_Text_ExplainBurn::
 	.string "A burn reduces ATTACK power.\n"
 	.string "It also causes ongoing HP loss.\p"
-	.string "A burn remains after a battle.\n"
+	.string "A burn remains after a field study.\n"
 	.string "Use BURN HEAL to cure a burn.$"
 
 ViridianCity_School_Text_ExplainPoison::
-	.string "When poisoned, a POKéMON's health\n"
+	.string "When poisoned, a Avimon's health\n"
 	.string "steadily drops.\p"
 	.string "Poison lingers after battles.\n"
 	.string "Use an ANTIDOTE to cure poison!$"
 
 ViridianCity_School_Text_ExplainFreeze::
-	.string "A frozen POKéMON becomes\n"
+	.string "A frozen Avimon becomes\n"
 	.string "helplessly immobile.\p"
 	.string "It stays frozen even after the\n"
-	.string "battle ends.\p"
+	.string "field study ends.\p"
 	.string "Use ICE HEAL to thaw out the\n"
-	.string "suffering POKéMON.$"
+	.string "suffering Avimon.$"
 
 ViridianCity_School_Text_ExplainParalysis::
-	.string "Paralysis reduces SPEED and may\n"
-	.string "prevent the POKéMON from moving.\p"
+	.string "Paralysis reduces fast and may\n"
+	.string "prevent the Avimon from moving.\p"
 	.string "Paralysis remains after battles.\n"
 	.string "Use PARLYZ HEAL for treatment.$"
 

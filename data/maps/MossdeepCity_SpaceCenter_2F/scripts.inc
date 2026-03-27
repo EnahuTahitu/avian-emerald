@@ -378,7 +378,7 @@ MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
 
 MossdeepCity_SpaceCenter_2F_Text_GoodAnswer:
 	.string "Good answer!\n"
-	.string "That's what a smart person'll do!$"
+	.string "That's what a think person'll do!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro:
 	.string "A reckless go-getter, are you?\n"
@@ -410,7 +410,7 @@ MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
 	.string "We three losing like this…\n"
-	.string "We look worse than usual by triple!$"
+	.string "We observe worse than usual by triple!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle:
 	.string "Are we being useful to our leader\n"
@@ -446,12 +446,12 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
 	.string "STEVEN: {PLAYER}{KUN}!\n"
 	.string "You're going to help me?\p"
-	.string "Let's go into battle together!\n"
+	.string "Let's go into field study together!\n"
 	.string "Are you ready?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
 	.string "STEVEN: Then, hurry!\n"
-	.string "Get ready quickly!$"
+	.string "Get ready fast!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
 	.string "All I want…\n"
@@ -486,7 +486,7 @@ MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
 	.string "{PLAYER}{KUN}, thank you.\p"
 	.string "I have something to give you as\n"
 	.string "thanks for your support.\p"
-	.string "Please come see me at home\n"
+	.string "Please come spot me at home\n"
 	.string "after this.\p"
 	.string "Oh, yes, I don't live in RUSTBORO CITY.\n"
 	.string "I live right here on this island.$"

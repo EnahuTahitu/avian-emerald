@@ -850,14 +850,14 @@ Text_DreamEaterTeach::
 	.string "And…\n"
 	.string "I learned how to eat dreams…\p"
 	.string "Oogh, this is too spooky!\p"
-	.string "Let me teach it to a POKéMON so\n"
+	.string "Let me teach it to a Avimon so\n"
 	.string "I can forget about it!$"
 
 Text_DreamEaterDeclined::
 	.string "…Snore…$"
 
 Text_DreamEaterWhichMon::
-	.string "Which POKéMON wants to learn\n"
+	.string "Which Avimon wants to learn\n"
 	.string "DREAM EATER?$"
 
 Text_DreamEaterTaught::
@@ -871,7 +871,7 @@ PewterCity_Text_ClefairyCameFromMoon::
 	.string "fell on MT. MOON.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-	.string "There aren't many serious POKéMON\n"
+	.string "There aren't many serious Avimon\n"
 	.string "TRAINERS here.\p"
 	.string "They're all like BUG CATCHERS,\n"
 	.string "you know, just hobbyists.\p"
@@ -892,7 +892,7 @@ PewterCity_Text_ReallyYouHaveToGo::
 PewterCity_Text_ThisIsTheMuseum::
 	.string "This is it, the MUSEUM.\p"
 	.string "You have to pay to get in, but it's\n"
-	.string "worth it. See you around!$"
+	.string "worth it. spot you around!$"
 
 PewterCity_Text_DoYouKnowWhatImDoing::
 	.string "Psssst!\n"
@@ -904,10 +904,10 @@ PewterCity_Text_ThatsRightItsHardWork::
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
 	.string "I'm spraying REPEL to keep wild\n"
-	.string "POKéMON out of my garden!$"
+	.string "Avimon out of my garden!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
-	.string "You're a TRAINER, right?\p"
+	.string "You're a Ornithologist, right?\p"
 	.string "BROCK's looking for new\n"
 	.string "challengers. Follow me!$"
 
@@ -916,13 +916,13 @@ PewterCity_Text_GoTakeOnBrock::
 	.string "go take on BROCK!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-	.string "TRAINER TIPS\p"
-	.string "All POKéMON that appear in battle,\n"
+	.string "Ornithologist TIPS\p"
+	.string "All Avimon that appear in field study,\n"
 	.string "however briefly, earn EXP Points.$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
 	.string "NOTICE!\p"
-	.string "Thieves have been stealing POKéMON\n"
+	.string "Thieves have been stealing Avimon\n"
 	.string "fossils from MT. MOON.\p"
 	.string "Please call the PEWTER POLICE if\n"
 	.string "you have any information.$"
@@ -931,9 +931,9 @@ PewterCity_Text_MuseumOfScience::
 	.string "PEWTER MUSEUM OF SCIENCE$"
 
 PewterCity_Text_GymSign::
-	.string "PEWTER CITY POKéMON GYM\n"
+	.string "PEWTER CITY Avimon GYM\n"
 	.string "LEADER: BROCK\l"
-	.string "The Rock-Solid POKéMON TRAINER!$"
+	.string "The Rock-Solid Avimon Ornithologist!$"
 
 PewterCity_Text_CitySign::
 	.string "PEWTER CITY\n"
@@ -958,7 +958,7 @@ PewterCity_Text_SwitchedShoesWithRunningShoes::
 
 PewterCity_Text_ExplainRunningShoes::
 	.string "Press the B Button to run.\n"
-	.string "But only where there's room to run!$"
+	.string "But only where there's room to take off!$"
 
 PewterCity_Text_MustBeGoingBackToLab::
 	.string "Well, I must be going back to\n"

@@ -39,5 +39,5 @@ MysteryGift_Text_TheresATicketForYou::
 MysteryGift_Text_TryUsingItAtLilycovePort::
 	.string "It appears to be for use at\n"
 	.string "the LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
+	.string "Why not give it a try and spot what\n"
 	.string "it is about?$"

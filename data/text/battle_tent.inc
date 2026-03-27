@@ -15,12 +15,12 @@ FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 	.string "In the FALLARBOR TERRITORY CLASH TENT,\n"
 	.string "we undertake the Set KO Tourney.\p"
 	.string "All participants enter with a team of\n"
-	.string "three AVIMON.\p"
-	.string "The three AVIMON must be lined up\n"
+	.string "three Avimon.\p"
+	.string "The three Avimon must be lined up\n"
 	.string "in the order that they are to appear in.\p"
-	.string "During territory clash, the AVIMON will appear\n"
+	.string "During territory clash, the Avimon will appear\n"
 	.string "one at a time in the preset order.\p"
-	.string "Once an AVIMON enters the clash, it must\n"
+	.string "Once an Avimon enters the clash, it must\n"
 	.string "remain out until the match is decided.\p"
 	.string "If a match remains undecided in\n"
 	.string "three turns, it goes to judging.\p"
@@ -44,11 +44,11 @@ FallarborTown_BattleTentLobby_Text_WhichLevelMode:
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Very well, now select your\n"
-	.string "three AVIMON, please.$"
+	.string "three Avimon, please.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "My dear challenger!\p"
-	.string "You do not have the three AVIMON\n"
+	.string "You do not have the three Avimon\n"
 	.string "required for entry.\p"
 	.string "They also must not hold the same\n"
 	.string "kinds of items.\p"
@@ -58,10 +58,10 @@ FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "My dear challenger!\p"
-	.string "You do not have the three AVIMON\n"
+	.string "You do not have the three Avimon\n"
 	.string "required for entry.\p"
 	.string "To qualify, you must bring three\n"
-	.string "different kinds of AVIMON.\p"
+	.string "different kinds of Avimon.\p"
 	.string "They also must not hold the same\n"
 	.string "kinds of items.\p"
 	.string "EGGS{STR_VAR_1} ineligible.\p"
@@ -90,7 +90,7 @@ FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame:
 	.string "Please wait while I save the game.$"
 
 FallarborTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "In commemoration of your 3-win streak,\n"
+	.string "In commemoration of your 3-prevail streak,\n"
 	.string "we present you with this prize.$"
 
 FallarborTown_BattleTentLobby_Text_ReceivedPrize:
@@ -121,7 +121,7 @@ VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "I welcome you to the TERRITORY CLASH TENT\n"
 	.string "VERDANTURF SITE!\p"
 	.string "Here, the BIRD KEEPER's trust in\n"
-	.string "AVIMON is tested.$"
+	.string "Avimon is tested.$"
 
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
 	.string "Do you wish to take the VERDANTURF\n"
@@ -132,13 +132,13 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 	.string "there is one crucial rule that must\l"
 	.string "be obeyed.\p"
 	.string "BIRD KEEPERS are permitted only to switch\n"
-	.string "their AVIMON in and out.\p"
+	.string "their Avimon in and out.\p"
 	.string "BIRD KEEPERS are otherwise forbidden to\n"
-	.string "command their AVIMON.\p"
-	.string "The AVIMON are to behave according\n"
+	.string "command their Avimon.\p"
+	.string "The Avimon are to behave according\n"
 	.string "to their nature and clash on their own.\p"
 	.string "You must put your trust in your\n"
-	.string "AVIMON and watch over them.\p"
+	.string "Avimon and watch over them.\p"
 	.string "If you achieve the honor of beating\n"
 	.string "three BIRD KEEPERS in succession,\l"
 	.string "we will present you with a prize.\p"
@@ -149,7 +149,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
 	.string "When you have fortified your heart\n"
-	.string "and AVIMON, you must return.$"
+	.string "and Avimon, you must return.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
@@ -159,10 +159,10 @@ VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Sigh…\p"
-	.string "You do not have the three AVIMON\n"
+	.string "You do not have the three Avimon\n"
 	.string "required for the challenge.\p"
 	.string "To enter, you must provide three\n"
-	.string "different kinds of AVIMON.\p"
+	.string "different kinds of Avimon.\p"
 	.string "They also must not be holding\n"
 	.string "the same kinds of items.\p"
 	.string "EGGS{STR_VAR_1} ineligible.\p"
@@ -171,10 +171,10 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Sigh…\p"
-	.string "You do not have the three AVIMON\n"
+	.string "You do not have the three Avimon\n"
 	.string "required for the challenge.\p"
 	.string "To enter, you must provide three\n"
-	.string "different kinds of AVIMON.\p"
+	.string "different kinds of Avimon.\p"
 	.string "They also must not be holding\n"
 	.string "the same kinds of items.\p"
 	.string "EGGS{STR_VAR_1} ineligible.\p"
@@ -183,7 +183,7 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 
 VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Good. Now, you must select your\n"
-	.string "three AVIMON.$"
+	.string "three Avimon.$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "I must save before I show you to\n"
@@ -195,21 +195,21 @@ VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
 	.string "I feel privileged for having seen\n"
-	.string "your AVIMON's exploits.\p"
+	.string "your Avimon's exploits.\p"
 	.string "The results will be recorded.\n"
 	.string "I must ask you to briefly wait.$"
 
 VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
-	.string "To achieve a 3-win streak…\p"
+	.string "To achieve a 3-prevail streak…\p"
 	.string "The bonds that bind your heart with\n"
-	.string "your AVIMON seem firm and true.$"
+	.string "your Avimon seem firm and true.$"
 
 VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
 	.string "Your feat will be recorded.\n"
 	.string "I must ask you to briefly wait.$"
 
 VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
-	.string "For the feat of your 3-win streak,\n"
+	.string "For the feat of your 3-prevail streak,\n"
 	.string "we present you with this prize.$"
 
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
@@ -225,15 +225,15 @@ SlateportCity_BattleTentLobby_Text_TakeChallenge:
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "Here at the SLATEPORT TERRITORY CLASH TENT,\n"
 	.string "we hold Territory clash Swap events\l"
-	.string "using rental AVIMON.\p"
+	.string "using rental Avimon.\p"
 	.string "First, you will be loaned three\n"
-	.string "AVIMON specifically for this event.\p"
-	.string "Using the supplied rental AVIMON,\n"
+	.string "Avimon specifically for this event.\p"
+	.string "Using the supplied rental Avimon,\n"
 	.string "you must conduct a SINGLE TERRITORY CLASH.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental AVIMON.\p"
+	.string "If you prevail, you are permitted to trade\n"
+	.string "one of your rental Avimon.\p"
 	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win three times in\l"
+	.string "trading--if you prevail three times in\l"
 	.string "a row, you will earn a fine prize.\p"
 	.string "If you want to interrupt your\n"
 	.string "challenge, please save the game.\p"
@@ -241,7 +241,7 @@ SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "you will be disqualified.$"
 
 SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "We observe forward to your next visit.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
@@ -254,7 +254,7 @@ SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your AVIMON for\n"
+	.string "Okay, I will hold your Avimon for\n"
 	.string "safekeeping while you compete.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
@@ -262,26 +262,26 @@ SlateportCity_BattleTentLobby_Text_StepThisWay:
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 	.string "Thank you for participating!\p"
-	.string "I will return your AVIMON in exchange\n"
-	.string "for our rental AVIMON.\p"
+	.string "I will return your Avimon in exchange\n"
+	.string "for our rental Avimon.\p"
 	.string "I must also save your event results.\n"
 	.string "Please wait.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "I will return your AVIMON in exchange\n"
-	.string "for our rental AVIMON.$"
+	.string "I will return your Avimon in exchange\n"
+	.string "for our rental Avimon.$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
 	.string "Congratulations!\n"
 	.string "You've won three straight matches!\p"
-	.string "I will return your AVIMON in exchange\n"
-	.string "for our rental AVIMON.\p"
+	.string "I will return your Avimon in exchange\n"
+	.string "for our rental Avimon.\p"
 	.string "I must also save your event results.\n"
 	.string "Please wait.$"
 
 SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
-	.string "In recognition of your 3-win streak,\n"
+	.string "In recognition of your 3-prevail streak,\n"
 	.string "we award you this prize.$"
 
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
@@ -303,7 +303,7 @@ SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
-	.string "We'll return your personal AVIMON.$"
+	.string "We'll return your personal Avimon.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
@@ -320,40 +320,40 @@ SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
 
 SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
 	.string "In a Territory clash Swap event, you may use\n"
-	.string "only three AVIMON.\p"
+	.string "only three Avimon.\p"
 	.string "Whether you are renting or swapping,\n"
 	.string "your team may not have two or more\l"
-	.string "of the same AVIMON.$"
+	.string "of the same Avimon.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap AVIMON only with\n"
+	.string "You may swap Avimon only with\n"
 	.string "the BIRD KEEPER you have just defeated.\p"
-	.string "You may swap for only those AVIMON\n"
+	.string "You may swap for only those Avimon\n"
 	.string "used by the beaten BIRD KEEPER.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
-	.string "After every clash with you win, you may\n"
+	.string "After every clash with you prevail, you may\n"
 	.string "swap for one of your defeated\l"
-	.string "opponent's AVIMON.\p"
-	.string "You will not be able to swap AVIMON\n"
+	.string "opponent's Avimon.\p"
+	.string "You will not be able to swap Avimon\n"
 	.string "with the third BIRD KEEPER in the event.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
 	.string "There are two key points to be aware\n"
-	.string "of when swapping AVIMON.\p"
+	.string "of when swapping Avimon.\p"
 	.string "First, when swapping, you can't check\n"
-	.string "the stats of the AVIMON you are\l"
+	.string "the stats of the Avimon you are\l"
 	.string "about to receive.\p"
-	.string "Second, the AVIMON on your team\n"
+	.string "Second, the Avimon on your team\n"
 	.string "are lined up in sequence, depending on\l"
 	.string "the order in which you rented them.\p"
 	.string "This sequence remains unchanged\n"
 	.string "even when swaps are made.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
-	.string "The AVIMON of the SLATEPORT\n"
+	.string "The Avimon of the SLATEPORT\n"
 	.string "TERRITORY CLASH TENT are all rentals.\p"
-	.string "All rental AVIMON are kept at\n"
+	.string "All rental Avimon are kept at\n"
 	.string "Level 30.$"
 
 @ Unused
@@ -368,21 +368,21 @@ VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
 	.string "Here at the VERDANTURF TERRITORY CLASH TENT,\n"
-	.string "AVIMON are required to think and\l"
+	.string "Avimon are required to think and\l"
 	.string "territory clash by themselves.\p"
-	.string "Unlike in the wild, AVIMON that live\n"
+	.string "Unlike in the wild, Avimon that live\n"
 	.string "with people behave differently\l"
 	.string "depending on their nature.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, an AVIMON\n"
+	.string "Depending on its nature, an Avimon\n"
 	.string "may prefer to attack no matter what.\p"
-	.string "Another AVIMON may prefer to protect\n"
+	.string "Another Avimon may prefer to protect\n"
 	.string "itself from any harm.\p"
 	.string "Yet another may enjoy vexing or\n"
 	.string "confounding its foes.\p"
-	.string "Depending on its nature, an AVIMON\n"
+	.string "Depending on its nature, an Avimon\n"
 	.string "will have favorite moves that it is good\l"
 	.string "at using.\p"
 	.string "It may also dislike certain moves that\n"
@@ -399,34 +399,34 @@ VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
 	.string "moves that may enfeeble the foes with\l"
 	.string "stat problems including poison and \l"
 	.string "paralysis.\p"
-	.string "AVIMON will consider using moves in\n"
+	.string "Avimon will consider using moves in\n"
 	.string "these three categories.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
 	.string "When not under command by its BIRD KEEPER,\n"
-	.string "an AVIMON may be unable to effectively\l"
+	.string "an Avimon may be unable to effectively\l"
 	.string "use certain moves.\p"
-	.string "An AVIMON is not good at using any\n"
+	.string "An Avimon is not good at using any\n"
 	.string "move that it dislikes.\p"
-	.string "If an AVIMON only knows moves that\n"
+	.string "If an Avimon only knows moves that\n"
 	.string "do not match its nature, it will often\l"
 	.string "be unable to live up to its potential.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
-	.string "Depending on its nature, an AVIMON may\n"
+	.string "Depending on its nature, an Avimon may\n"
 	.string "start using moves that don't match its\l"
 	.string "nature when it is in trouble.\p"
-	.string "If an AVIMON begins behaving oddly\n"
+	.string "If an Avimon begins behaving oddly\n"
 	.string "in a pinch, watch it carefully.$"
 
 BattleTentLobby_Text_ExplainLevelRules:
 	.string "At this TERRITORY CLASH TENT, the levels of\n"
 	.string "your opponents will be adjusted to\l"
-	.string "match the levels of your AVIMON.\p"
+	.string "match the levels of your Avimon.\p"
 	.string "However, no BIRD KEEPER you face will\n"
-	.string "have any AVIMON below Level 30.$"
+	.string "have any Avimon below Level 30.$"
 
 VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
 	.string "The VERDANTURF TERRITORY CLASH TENT\n"

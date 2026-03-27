@@ -654,7 +654,7 @@ MauvilleCity_GameCorner_Text_CoinCaseIsFull:
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
 	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "Good luck on your migration like Arctic terns traveling pole to pole!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "Welcome.\p"
@@ -712,14 +712,14 @@ MauvilleCity_GameCorner_Text_DontBeNegative:
 	.string "You can have this!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
+	.string "There's a prize I want, but I can't prevail\n"
 	.string "the jackpot.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
 	.string "Hey, kid, if you want to play here,\n"
 	.string "you need a COIN CASE.\p"
 	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "had one. Go spot her!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
 	.string "My luck can only last so long.\n"
@@ -748,7 +748,7 @@ MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
 	.string "This ROULETTE thing…\n"
 	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "prevail or lose, it's only by luck.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
 	.string "Up to three COINS can be used to play\n"

@@ -24,10 +24,10 @@ CeruleanCity_House2_EventScript_WallHole::
 
 CeruleanCity_House2_Text_RocketsStoleTMForDig::
 	.string "Those miserable ROCKETS!\p"
-	.string "Look what they've done to my\n"
+	.string "observe what they've done to my\n"
 	.string "house!\p"
 	.string "They stole a TM for teaching\n"
-	.string "POKéMON how to DIG holes!\p"
+	.string "Avimon how to DIG holes!\p"
 	.string "I was going to use it on a\n"
 	.string "MANKEY or a SANDSHREW…\p"
 	.string "That cost me a bundle, it did!$"

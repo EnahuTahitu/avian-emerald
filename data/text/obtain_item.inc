@@ -1,26 +1,26 @@
 gText_ObtainedTheItem::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Obtained the {STR_VAR_2} for your field kit!$"
 
 gText_TheBagIsFull::
-	.string "The BAG is full…$"
+	.string "The BAG is full of field supplies…$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3} POCKET.$"
+	.string "{PLAYER} packed the {STR_VAR_2}\n"
+	.string "into the {STR_VAR_3} POCKET.$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER} spotted one {STR_VAR_2}!$"
 
 gText_TooBadBagIsFull::
 	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "The BAG is full of field supplies…$"
 
 gText_PlayerPutItemInBag::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
+	.string "{PLAYER} packed the {STR_VAR_2}\n"
 	.string "in the BAG.$"
 
 gText_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Obtained the {STR_VAR_2} for your roost!$"
 
 gText_NoRoomLeftForAnother::
 	.string "Too bad! There's no room left for\n"
@@ -31,21 +31,21 @@ gText_TheDecorWasTransferredToThePC::
 	.string "to the PC.$"
 
 gText_ObtainedTheItems::
-	.string "Obtained {STR_VAR_1} {STR_VAR_2}!$"
+	.string "Obtained {STR_VAR_1} {STR_VAR_2} for fieldwork!$"
 
 gText_PlayerFoundItems::
-	.string "{PLAYER} found {STR_VAR_1} {STR_VAR_2}!$"
+	.string "{PLAYER} spotted {STR_VAR_1} {STR_VAR_2}!$"
 
 gText_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} put the COINS away in\n"
+	.string "{PLAYER} stowed the COINS in\n"
 	.string "the COIN CASE.$"
 
 gText_FoundXCoins::
-	.string "{PLAYER} found\n"
+	.string "{PLAYER} spotted\n"
 	.string "{STR_VAR_1} {STR_VAR_2}!$"
 
 gText_FoundXItems::
-	.string "{PLAYER} found\n"
+	.string "{PLAYER} spotted\n"
 	.string "{STR_VAR_1} {STR_VAR_2}(s)!$"
 
 gText_CoinCaseIsFull::

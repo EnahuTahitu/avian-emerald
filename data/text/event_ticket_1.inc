@@ -22,7 +22,7 @@ EventTicket_Text_ShowEonTicket:
 
 EventTicket_Text_SouthernIslandSailBack:
 	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
+	.string "spot or do on this forgettable island.\p"
 	.string "What say we sail back to LILYCOVE?$"
 
 EventTicket_Text_SailHome:

@@ -40,23 +40,23 @@ LavenderTown_Mart_Items::
 
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
 	.string "I'm searching for items that raise\n"
-	.string "the stats of POKéMON.\p"
+	.string "the stats of Avimon.\p"
 	.string "They're effective over the course\n"
-	.string "of a single battle.\p"
-	.string "X ATTACK, X DEFEND, X SPEED, \n"
+	.string "of a single field study.\p"
+	.string "X ATTACK, X DEFEND, X fast, \n"
 	.string "and X SPECIAL are what I'm after.\p"
 	.string "Do you know where I can get them?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
 	.string "Did you buy some REVIVES?\n"
-	.string "They revive any fainted POKéMON!$"
+	.string "They revive any fainted Avimon!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
-	.string "Sometimes, a TRAINER duo will\n"
-	.string "challenge you with two POKéMON\l"
+	.string "Sometimes, a Ornithologist duo will\n"
+	.string "challenge you with two Avimon\l"
 	.string "at the same time.\p"
 	.string "If that happens, you have to send\n"
-	.string "out two POKéMON to battle, too.$"
+	.string "out two Avimon to field study, too.$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
 	.string "この　あいだ　やまおくで\n"

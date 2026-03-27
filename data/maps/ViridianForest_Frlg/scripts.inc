@@ -65,12 +65,12 @@ ViridianForest_EventScript_Charlie::
 
 ViridianForest_Text_FriendsItchingToBattle::
 	.string "I came here with some friends to\n"
-	.string "catch us some BUG POKéMON!\p"
+	.string "catch us some BUG AVIMON!\p"
 	.string "They're all itching to get into\n"
-	.string "some POKéMON battles!$"
+	.string "some AVIMON battles!$"
 
 ViridianForest_Text_RickIntro::
-	.string "Hey! You have POKéMON!\n"
+	.string "Hey! You have AVIMON!\n"
 	.string "Come on!\l"
 	.string "Let's battle 'em!$"
 
@@ -84,11 +84,11 @@ ViridianForest_Text_RickPostBattle::
 ViridianForest_Text_DougIntro::
 	.string "Yo!\n"
 	.string "You can't jam out if you're a\l"
-	.string "POKéMON TRAINER!$"
+	.string "AVIMON TRAINER!$"
 
 ViridianForest_Text_DougDefeat::
 	.string "Huh?\n"
-	.string "I ran out of POKéMON!$"
+	.string "I ran out of AVIMON!$"
 
 ViridianForest_Text_DougPostBattle::
 	.string "That totally stinks! I'm going to\n"
@@ -120,47 +120,47 @@ ViridianForest_Text_AnthonyPostBattle::
 	.string "I lost some of my allowance…$"
 
 ViridianForest_Text_CharlieIntro::
-	.string "Did you know that POKéMON evolve?$"
+	.string "Did you know that AVIMON evolve?$"
 
 ViridianForest_Text_CharlieDefeat::
 	.string "Oh!\n"
 	.string "I lost!$"
 
 ViridianForest_Text_CharliePostBattle::
-	.string "BUG POKéMON evolve quickly.\n"
+	.string "BUG AVIMON evolve quickly.\n"
 	.string "They're a lot of fun!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
-	.string "I was throwing POKé BALLS to\n"
-	.string "catch POKéMON, and I ran out.\p"
+	.string "I was throwing NESTING SPHERES to\n"
+	.string "catch AVIMON, and I ran out.\p"
 	.string "That's why you can never have too\n"
-	.string "many POKé BALLS.$"
+	.string "many NESTING SPHERES.$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
 	.string "TRAINER TIPS\p"
-	.string "If your POKéMON are weak and you\n"
+	.string "If your AVIMON are weak and you\n"
 	.string "want to avoid battles, stay away\l"
 	.string "from grassy areas!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
 	.string "For poison, use ANTIDOTE!\n"
-	.string "Get it at POKéMON MARTS!$"
+	.string "Get it at AVIMON MARTS!$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
 	.string "TRAINER TIPS\p"
 	.string "Contact PROF. OAK via a PC to\n"
-	.string "get your POKéDEX evaluated!$"
+	.string "get your AVIARYDEX evaluated!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
 	.string "TRAINER TIPS\p"
-	.string "You can't catch a POKéMON that\n"
+	.string "You can't catch a AVIMON that\n"
 	.string "belongs to someone else.\p"
-	.string "Throw POKé BALLS only at wild\n"
-	.string "POKéMON to catch them!$"
+	.string "Throw NESTING SPHERES only at wild\n"
+	.string "AVIMON to catch them!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
 	.string "TRAINER TIPS\p"
-	.string "Weaken POKéMON before attempting\n"
+	.string "Weaken AVIMON before attempting\n"
 	.string "capture!\p"
 	.string "When healthy, they may escape!$"
 

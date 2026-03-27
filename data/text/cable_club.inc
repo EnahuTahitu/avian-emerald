@@ -1,5 +1,5 @@
 CableClub_Text_WelcomeWhichCableClubService:
-	.string "Welcome to the AVIMON CABLE\n"
+	.string "Welcome to the Avimon CABLE\n"
 	.string "CLUB.\p"
 	.string "Which of our services do you wish\n"
 	.string "to use?$"
@@ -9,7 +9,7 @@ CableClub_Text_WhichService:
 	.string "to use?$"
 
 CableClub_Text_TradeUsingLinkCable::
-	.string "Trade AVIMON with another player\n"
+	.string "Trade Avimon with another player\n"
 	.string "using a GBA Game Link cable.$"
 
 CableClub_Text_BattleUsingLinkCable::
@@ -26,14 +26,14 @@ CableClub_Text_CloseThisMenu:
 
 CableClub_Text_NeedTwoMonsForDoubleBattle:
 	.string "For a DOUBLE TERRITORY CLASH, you must\n"
-	.string "have at least two AVIMON.$"
+	.string "have at least two Avimon.$"
 
 CableClub_Text_NeedTwoMonsToTrade:
 	.string "For trading, you must have at\n"
-	.string "least two AVIMON with you.$"
+	.string "least two Avimon with you.$"
 
 CableClub_Text_CantTradeEnigmaBerry:
-	.string "A AVIMON holding the {STR_VAR_1}\n"
+	.string "A Avimon holding the {STR_VAR_1}\n"
 	.string "BERRY can't be traded.$"
 
 gText_PleaseWaitForLink::
@@ -139,7 +139,7 @@ CableClub_Text_TrainerCardDataOverwritten:
 	.string "be overwritten.$"
 
 CableClub_Text_HopeToSeeYouAgain:
-	.string "I hope to see you again!$"
+	.string "I hope to spot you again!$"
 
 CableClub_Text_NotSetUpForFarAwayRegion:
 	.string "I'm awfully sorry.\p"
@@ -151,7 +151,7 @@ CableClub_Text_OtherTrainerNotReady:
 	.string "The other BIRD KEEPER is not ready.$"
 
 CableClub_Text_YouHaveAMonThatCantBeTaken:
-	.string "You have at least one AVIMON\n"
+	.string "You have at least one Avimon\n"
 	.string "that can't be taken.$"
 
 RecordCorner_Text_TakeSeatAndWait:
@@ -186,7 +186,7 @@ CableClub_Text_PleaseWait:
 	.string "Please wait.$"
 
 CableClub_Text_YouMayTradeHere::
-	.string "You may trade your AVIMON here\n"
+	.string "You may trade your Avimon here\n"
 	.string "with another BIRD KEEPER.$"
 
 CableClub_Text_YouMayBattleHere::
@@ -223,14 +223,14 @@ CableClub_Text_NeedBerryForBerryCrush:
 
 CableClub_Text_NeedTwoMonsForUnionRoom:
 	.string "To enter the UNION ROOM, you must\n"
-	.string "have at least two AVIMON.$"
+	.string "have at least two Avimon.$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom:
-	.string "No AVIMON holding the {STR_VAR_1}\n"
+	.string "No Avimon holding the {STR_VAR_1}\n"
 	.string "BERRY may enter the UNION ROOM.$"
 
 CableClub_Text_UnionRoomAdapterNotConnected:
-	.string "This is the AVIMON WIRELESS CLUB\n"
+	.string "This is the Avimon WIRELESS CLUB\n"
 	.string "UNION ROOM.\p"
 	.string "Unfortunately, your Wireless\n"
 	.string "Adapter is not connected properly.\p"
@@ -252,14 +252,14 @@ MossdeepCity_GameCorner_1F_Text_DescribeWhichGame:
 	.string "Which game should I describe?$"
 
 MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
-	.string "“AVIMON JUMP”\p"
-	.string "Make your AVIMON skip the VINE WHIP\n"
+	.string "“Avimon JUMP”\p"
+	.string "Make your Avimon skip the VINE WHIP\n"
 	.string "rope with the A Button.\p"
-	.string "Only mini AVIMON around 28 inches\n"
+	.string "Only mini Avimon around 28 inches\n"
 	.string "or less may participate.\p"
-	.string "AVIMON that only swim, burrow,\n"
-	.string "or fly are not good at jumping.\p"
-	.string "As a result, those AVIMON may not\n"
+	.string "Avimon that only swim, burrow,\n"
+	.string "or flight are not good at jumping.\p"
+	.string "As a result, those Avimon may not\n"
 	.string "participate.\p"
 	.string "Good things happen if everyone\n"
 	.string "jumps in time.$"
@@ -295,7 +295,7 @@ MossdeepCity_GameCorner_1F_Text_PlayWhichGame:
 	.string "to play?$"
 
 MossdeepCity_GameCorner_1F_Text_EnterWhichPokemon:
-	.string "Which AVIMON would you like to\n"
+	.string "Which Avimon would you like to\n"
 	.string "enter?$"
 
 MossdeepCity_GameCorner_1F_Text_AllGoodToGo:
@@ -308,18 +308,18 @@ MossdeepCity_GameCorner_1F_Text_LeavingDoComeAgain:
 	.string "Do come again!$"
 
 MossdeepCity_GameCorner_1F_Text_ExplainRequiredMon:
-	.string "It doesn't look like you have any\n"
-	.string "AVIMON that you can enter…\p"
+	.string "It doesn't observe like you have any\n"
+	.string "Avimon that you can enter…\p"
 	.string "Would you like me to explain what\n"
-	.string "kinds of AVIMON can enter?$"
+	.string "kinds of Avimon can enter?$"
 
 MossdeepCity_GameCorner_1F_Text_ShortJumpingPokemonAllowed:
-	.string "“AVIMON JUMP” is open to AVIMON\n"
+	.string "“Avimon JUMP” is open to Avimon\n"
 	.string "around 28 inches or less.\p"
 	.string "What you can't enter are those\n"
-	.string "AVIMON that can't jump.\p"
-	.string "You know, like AVIMON that only\n"
-	.string "swim, burrow, or fly.\p"
+	.string "Avimon that can't jump.\p"
+	.string "You know, like Avimon that only\n"
+	.string "swim, burrow, or flight.\p"
 	.string "That's all you need to know.$"
 
 MossdeepCity_GameCorner_1F_Text_OnlyDodrioAllowed:
@@ -332,7 +332,7 @@ MossdeepCity_GameCorner_1F_Text_RetryPlease:
 	.string "again, please?$"
 
 CableClub_Text_WelcomeWhichDirectCornerRoom:
-	.string "Welcome to the AVIMON WIRELESS\n"
+	.string "Welcome to the Avimon WIRELESS\n"
 	.string "CLUB DIRECT CORNER.\p"
 	.string "You may interact directly with\n"
 	.string "your friends here.\p"
@@ -340,7 +340,7 @@ CableClub_Text_WelcomeWhichDirectCornerRoom:
 	.string "enter?$"
 
 CableClub_Text_TradePokemon:
-	.string "Would you like to trade AVIMON?$"
+	.string "Would you like to trade Avimon?$"
 
 CableClub_Text_PlayWhichBattleMode:
 	.string "Which Territory clash Mode would you like\n"
@@ -357,16 +357,16 @@ CableClub_Text_UseBerryCrush:
 CableClub_Text_ExplainBattleModes:
 	.string "There are three Territory clash Modes.\p"
 	.string "SINGLE TERRITORY CLASH is for two BIRD KEEPERS\n"
-	.string "with one or more AVIMON each.\p"
-	.string "Each BIRD KEEPER can have one AVIMON\n"
+	.string "with one or more Avimon each.\p"
+	.string "Each BIRD KEEPER can have one Avimon\n"
 	.string "in territory clash at a time.\p"
 	.string "DOUBLE TERRITORY CLASH is for two BIRD KEEPERS\n"
-	.string "with two or more AVIMON each.\p"
+	.string "with two or more Avimon each.\p"
 	.string "Each BIRD KEEPER will send out two\n"
-	.string "AVIMON in territory clash at a time.\p"
+	.string "Avimon in territory clash at a time.\p"
 	.string "MULTI TERRITORY CLASH is for four BIRD KEEPERS\n"
-	.string "with one or more AVIMON each.\p"
-	.string "Each BIRD KEEPER can have one AVIMON\n"
+	.string "with one or more Avimon each.\p"
+	.string "Each BIRD KEEPER can have one Avimon\n"
 	.string "in territory clash at a time.$"
 
 CableClub_Text_ChooseGroupLeaderOfTwo:
@@ -388,7 +388,7 @@ CableClub_Text_ChooseGroupLeader:
 	.string "“JOIN GROUP.”$"
 
 CableClub_Text_WelcomeUnionRoomEnter:
-	.string "Welcome to the AVIMON WIRELESS\n"
+	.string "Welcome to the Avimon WIRELESS\n"
 	.string "CLUB UNION ROOM.\p"
 	.string "You may interact directly with\n"
 	.string "other BIRD KEEPERS here, some of\l"
@@ -401,11 +401,11 @@ CableClub_Text_UnionRoomInfo:
 	.string "who have also entered the ROOM.\p"
 	.string "You may do all sorts of things\n"
 	.string "here, such as exchanging greetings.\p"
-	.string "You may enter two AVIMON up to\n"
+	.string "You may enter two Avimon up to\n"
 	.string "Lv. 30 for a one-on-one territory clash.\p"
 	.string "You may take part in a chat with\n"
 	.string "two to five people.\p"
-	.string "Or, you may register an AVIMON for\n"
+	.string "Or, you may register an Avimon for\n"
 	.string "trade.\p"
 	.string "Would you like to enter the ROOM?$"
 
@@ -421,7 +421,7 @@ CableClub_Text_FirstTimeRightThisWay:
 	.string "I'll show you how the Wireless\n"
 	.string "Communication System works.\p"
 	.string "First, I need to show you this\n"
-	.string "floor of our AVIMON CENTER.\p"
+	.string "floor of our Avimon CENTER.\p"
 	.string "Right this way, please.$"
 
 CableClub_Text_ExplainWirelessClubFirstTime:
@@ -436,7 +436,7 @@ CableClub_Text_ExplainWirelessClubFirstTime:
 	.string "chat, territory clash, and trade.\p"
 	.string "Second, the room on the right is\n"
 	.string "the DIRECT CORNER.\p"
-	.string "You may trade or territory clash AVIMON\n"
+	.string "You may trade or territory clash Avimon\n"
 	.string "with your friends in this room.\p"
 	.string "If the Wireless Adapter isn't\n"
 	.string "connected, you may still link up\l"
@@ -448,13 +448,13 @@ CableClub_Text_ExplainWirelessClubFirstTime:
 
 CableClub_Text_AskAboutLinking:
 	.string "Hello, {PLAYER}!\p"
-	.string "It's me, TEALA, the AVIMON\n"
+	.string "It's me, TEALA, the Avimon\n"
 	.string "CENTER 2F attendant.\p"
 	.string "Is there something you needed to\n"
 	.string "ask me about linking?$"
 
 CableClub_Text_ExplainWirelessClub:
-	.string "Let me explain how the AVIMON\n"
+	.string "Let me explain how the Avimon\n"
 	.string "WIRELESS CLUB works.\p"
 	.string "On this, the top floor, there are\n"
 	.string "two rooms.\p"
@@ -467,7 +467,7 @@ CableClub_Text_ExplainWirelessClub:
 	.string "chat, territory clash, and trade.\p"
 	.string "Second, the room on the right is\n"
 	.string "the DIRECT CORNER.\p"
-	.string "You may trade or territory clash AVIMON\n"
+	.string "You may trade or territory clash Avimon\n"
 	.string "with your friends in this room.\p"
 	.string "Sometimes, you may not be able to\n"
 	.string "find your friends in the UNION ROOM\l"

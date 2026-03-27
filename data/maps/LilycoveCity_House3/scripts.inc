@@ -114,16 +114,16 @@ LilycoveCity_House3_Text_OhAreYouSure:
 	.string "everything by yourself, dear!$"
 
 LilycoveCity_House3_Text_ExplainPokeblocks:
-	.string "Oh, good! You're a smart soul!\n"
+	.string "Oh, good! You're a think soul!\n"
 	.string "This is a bit long, so listen up!\p"
 	.string "Are you ready?\p"
-	.string "If you look at {POKEBLOCK}S, you should see\n"
+	.string "If you look at {POKEBLOCK}S, you should spot\n"
 	.string "that they are rated on how they feel.\p"
 	.string "The lower the feel rating,\n"
 	.string "the better it is. Don't forget this!\p"
 	.string "A good {POKEBLOCK} has a low feel\n"
 	.string "rating and a high level.\p"
-	.string "A POKéMON can eat more good\n"
+	.string "A Avimon can eat more good\n"
 	.string "{POKEBLOCK}S than ordinary ones, too.\p"
 	.string "And this is important.\p"
 	.string "If you want to make smooth {POKEBLOCK}S,\n"
@@ -137,7 +137,7 @@ LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "people and make {POKEBLOCK}S together.\p"
 	.string "That's about all you need to know to\n"
 	.string "make good {POKEBLOCK}S.\p"
-	.string "If everyone had POKéMON they love,\n"
+	.string "If everyone had Avimon they love,\n"
 	.string "smooth {POKEBLOCK}S, and a loving family,\l"
 	.string "the world would be a happier place.\p"
 	.string "Don't give up, dear!$"
@@ -150,7 +150,7 @@ LilycoveCity_House3_Text_HappyToHaveQuadruplets:
 
 LilycoveCity_House3_Text_GoingToWinMultiBattles:
 	.string "We're having MULTI BATTLES, but I know\n"
-	.string "I'm going to win.$"
+	.string "I'm going to prevail.$"
 
 LilycoveCity_House3_Text_LikeMixingAtRecordCorner:
 	.string "We like mixing stuff at\n"
@@ -163,6 +163,6 @@ LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender:
 
 LilycoveCity_House3_Text_GoingToEnterContest:
 	.string "I want to brag about how tough my\n"
-	.string "POKéMON is, so we're going to enter\l"
+	.string "Avimon is, so we're going to enter\l"
 	.string "a CONTEST together.$"
 

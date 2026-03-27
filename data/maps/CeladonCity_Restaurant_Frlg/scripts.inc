@@ -45,7 +45,7 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
 	.string "right now.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-	.string "My POKéMON are weak, so I often\n"
+	.string "My Avimon are weak, so I often\n"
 	.string "have to go to the DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
@@ -74,5 +74,5 @@ CeladonCity_Restaurant_Text_MakeRoomForThis::
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
 	.string "I always thought I was going to\n"
-	.string "win it back…$"
+	.string "prevail it back…$"
 

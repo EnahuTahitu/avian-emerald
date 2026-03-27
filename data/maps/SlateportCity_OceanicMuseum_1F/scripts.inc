@@ -278,11 +278,11 @@ SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
 	.string "The sea is vast without end, and\n"
 	.string "infinitely deep…\p"
-	.string "There must be many POKéMON that\n"
+	.string "There must be many Avimon that\n"
 	.string "we don't know about.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea POKéMON.\p"
+	.string "I want a sea Avimon.\p"
 	.string "I think it would feel cool and nice\n"
 	.string "to hug.$"
 
@@ -298,7 +298,7 @@ SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
 	.string "That TM, it suits you more than it\n"
 	.string "does me.\p"
-	.string "Hope I never see you again!\n"
+	.string "Hope I never spot you again!\n"
 	.string "Wahahaha!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:

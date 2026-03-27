@@ -408,7 +408,7 @@ SlateportCity_Harbor_Text_LilycoveItIs:
 	.string "LILYCOVE CITY it is, then!$"
 
 SlateportCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
+	.string "field study FRONTIER it is, then!$"
 
 SlateportCity_Harbor_Text_PleaseBoardFerry:
 	.string "Please board the ferry and wait for\n"
@@ -418,7 +418,7 @@ SlateportCity_Harbor_Text_WhereWouldYouLikeToGo:
 	.string "Then, where would you like to go?$"
 
 SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday:
-	.string "A journey to the bottom of the sea…\n"
+	.string "A flight path to the bottom of the sea…\n"
 	.string "I wonder what it'd be like?\p"
 	.string "I'd love to go deep underwater like\n"
 	.string "that someday.$"
@@ -461,7 +461,7 @@ SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
 	.string "Why would TEAM AQUA steal my\n"
 	.string "SUBMARINE EXPLORER 1?\p"
 	.string "They can't be after the slumbering\n"
-	.string "POKéMON at the bottom of the sea…\p"
+	.string "Avimon at the bottom of the sea…\p"
 	.string "But even if I were to chase them,\n"
 	.string "I don't stand a chance against them…$"
 
@@ -473,7 +473,7 @@ SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
 	.string "You're not responsible for this.\p"
 	.string "Trying to catch a submarine…\n"
 	.string "It's impossible for most people.\p"
-	.string "You would need a POKéMON that knows\n"
+	.string "You would need a Avimon that knows\n"
 	.string "how to DIVE…\p"
 	.string "Perhaps if you went out to\n"
 	.string "MOSSDEEP CITY…\p"
@@ -483,7 +483,7 @@ SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
 SlateportCity_Harbor_Text_NeedDiveToCatchSub:
 	.string "CAPT. STERN: Trying to catch a\n"
 	.string "submarine… It's impossible.\p"
-	.string "You would need a POKéMON that knows\n"
+	.string "You would need a Avimon that knows\n"
 	.string "how to DIVE…\p"
 	.string "Perhaps if you went out to\n"
 	.string "MOSSDEEP CITY…\p"

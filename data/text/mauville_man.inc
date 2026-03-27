@@ -51,7 +51,7 @@ GiddyText_WhatsTheBottomOfTheSeaLike::
 	.string "Just once I would so love to go!$"
 
 GiddyText_WhenYouSeeTheSettingSunDoesIt::
-	.string "When you see the setting sun, does it\n"
+	.string "When you spot the setting sun, does it\n"
 	.string "make you want to go home?$"
 
 GiddyText_LyingBackInTheGreenGrass::

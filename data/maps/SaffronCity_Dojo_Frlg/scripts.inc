@@ -166,7 +166,7 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
 	.string "But, I beseech you, do not take\n"
 	.string "our emblem as your trophy!\p"
 	.string "In return, I will give you a prized\n"
-	.string "FIGHTING POKéMON!\p"
+	.string "FIGHTING Avimon!\p"
 	.string "Choose whichever one you like!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::
@@ -181,7 +181,7 @@ SaffronCity_Dojo_Text_MikeDefeat::
 	.string "I give up!$"
 
 SaffronCity_Dojo_Text_MikePostBattle::
-	.string "You wait 'til you see our MASTER!\n"
+	.string "You wait 'til you spot our MASTER!\n"
 	.string "I'm a small fry compared to him!$"
 
 SaffronCity_Dojo_Text_HidekiIntro::

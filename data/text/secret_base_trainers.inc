@@ -87,10 +87,10 @@ SecretBase_Text_Trainer1PreChampion:
 	.string "I finally got to use it!$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Welcome to my AVIMON LAB.\p"
+	.string "Welcome to my Avimon LAB.\p"
 	.string "I carry out research on battling in\n"
 	.string "secrecy.\p"
-	.string "Would you like to see how strong I am?$"
+	.string "Would you like to spot how strong I am?$"
 
 SecretBase_Text_Trainer6AcceptBattle:
 	.string "I'm going to go all out!$"
@@ -108,7 +108,7 @@ SecretBase_Text_Trainer6PostBattle:
 	.string "Please come back again tomorrow.$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my AVIMON LAB.\p"
+	.string "Welcome to my Avimon LAB.\p"
 	.string "I carry out research on battling in\n"
 	.string "secrecy.$"
 
@@ -144,10 +144,10 @@ SecretBase_Text_Trainer2PreChampion:
 SecretBase_Text_Trainer7Intro:
 	.string "I simply adore shopping for decorations\n"
 	.string "and furniture.\p"
-	.string "I also love raising AVIMON just\n"
+	.string "I also love raising Avimon just\n"
 	.string "as much.\p"
 	.string "If you would be so kind, will you territory clash\n"
-	.string "with my AVIMON?$"
+	.string "with my Avimon?$"
 
 SecretBase_Text_Trainer7AcceptBattle:
 	.string "Thank you.\n"
@@ -167,7 +167,7 @@ SecretBase_Text_Trainer7PostBattle:
 SecretBase_Text_Trainer7PreChampion:
 	.string "I simply adore shopping for decorations\n"
 	.string "and furniture.\p"
-	.string "I also love raising AVIMON just\n"
+	.string "I also love raising Avimon just\n"
 	.string "as much.$"
 
 SecretBase_Text_Trainer3Intro:
@@ -199,7 +199,7 @@ SecretBase_Text_Trainer3PreChampion:
 SecretBase_Text_Trainer8Intro:
 	.string "People have told me that you can get\n"
 	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
+	.string "We should have a race to spot who can\n"
 	.string "get nicer decorations and furniture!\p"
 	.string "In the meantime, want to territory clash?$"
 
@@ -221,13 +221,13 @@ SecretBase_Text_Trainer8PostBattle:
 SecretBase_Text_Trainer8PreChampion:
 	.string "People have told me that you can get\n"
 	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
+	.string "We should have a race to spot who can\n"
 	.string "get nicer decorations and furniture!$"
 
 SecretBase_Text_Trainer4Intro:
 	.string "I found a spot I liked, and I did it up\n"
 	.string "with my favorite decorations.\p"
-	.string "I raise my favorite AVIMON and grow\n"
+	.string "I raise my favorite Avimon and grow\n"
 	.string "stronger with it.\p"
 	.string "That's what I do.\n"
 	.string "Want to territory clash with me?$"
@@ -249,7 +249,7 @@ SecretBase_Text_Trainer4PostBattle:
 SecretBase_Text_Trainer4PreChampion:
 	.string "I found a spot I liked, and I did it up\n"
 	.string "with my favorite decorations.\p"
-	.string "I raise my favorite AVIMON and grow\n"
+	.string "I raise my favorite Avimon and grow\n"
 	.string "stronger with it.\p"
 	.string "Every day is a great day.$"
 
@@ -260,7 +260,7 @@ SecretBase_Text_Trainer9Intro:
 	.string "display them.\p"
 	.string "What do you think of my taste?\n"
 	.string "Are you speechless?\p"
-	.string "Want to see my taste in battling?$"
+	.string "Want to spot my taste in battling?$"
 
 SecretBase_Text_Trainer9AcceptBattle:
 	.string "There's no holding back!$"

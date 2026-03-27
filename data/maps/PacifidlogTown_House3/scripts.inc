@@ -34,7 +34,7 @@ PacifidlogTown_House3_Text_WillingToTradeIt:
 	.string "Check out this {STR_VAR_2}!\p"
 	.string "It's the {STR_VAR_2} that I caught\n"
 	.string "yesterday to celebrate my birthday!\p"
-	.string "Oh, I can see that you want it!\n"
+	.string "Oh, I can spot that you want it!\n"
 	.string "After all, it's priceless!\p"
 	.string "I'll tell you what. I might be willing\n"
 	.string "to trade it for a {STR_VAR_1}.$"
@@ -59,11 +59,11 @@ PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
 	.string "I know I could go looking for one\n"
 	.string "on my own, but…\p"
 	.string "But I really wanted to get a BAGON\n"
-	.string "that another TRAINER caught…$"
+	.string "that another Ornithologist caught…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Is that a POKéDEX?\p"
+	.string "Is that a AVIARYDEX?\p"
 	.string "Did you get to meet a lot of different\n"
-	.string "POKéMON?\p"
+	.string "Avimon?\p"
 	.string "I wish I was like you.$"
 

@@ -454,24 +454,24 @@ PalletTown_Text_OakDontGoOut::
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
 	.string "OAK: It's unsafe!\n"
-	.string "Wild POKéMON live in tall grass!\p"
-	.string "You need your own POKéMON for\n"
+	.string "Wild Avimon live in tall grass!\p"
+	.string "You need your own Avimon for\n"
 	.string "your protection.\p"
 	.string "I know!\n"
 	.string "Here, come with me!$"
 
 PalletTown_Text_RaisingMonsToo::
-	.string "I'm raising POKéMON, too.\p"
+	.string "I'm raising Avimon, too.\p"
 	.string "When they get strong, they can\n"
 	.string "protect me.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
 	.string "Technology is incredible!\p"
 	.string "You can now store and recall items\n"
-	.string "and POKéMON as data via PC.$"
+	.string "and Avimon as data via PC.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-	.string "OAK POKéMON RESEARCH LAB$"
+	.string "OAK Avimon RESEARCH LAB$"
 
 PalletTown_Text_PlayersHouse::
 	.string "{PLAYER}'s house$"
@@ -481,15 +481,15 @@ PalletTown_Text_RivalsHouse::
 
 PalletTown_Text_TownSign::
 	.string "PALLET TOWN\n"
-	.string "Shades of your journey await!$"
+	.string "Shades of your flight path await!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
 	.string "OAK: Ah, {PLAYER}!\n"
 	.string "You're back, are you?\p"
 	.string "How much have you filled in your\n"
-	.string "POKéDEX?\p"
+	.string "AVIARYDEX?\p"
 	.string "May I see it?\p"
-	.string "Let's see…$"
+	.string "Let's spot…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
 	.string "You've caught {STR_VAR_2}…\p"
@@ -529,7 +529,7 @@ PalletTown_Text_ReadItReadIt::
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "TRAINER TIPS\p"
+	.string "Ornithologist TIPS\p"
 	.string "Press START to open the MENU!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
@@ -538,11 +538,11 @@ PalletTown_Text_SignsAreUsefulArentThey::
 PalletTown_Text_LookCopiedTrainerTipsSign::
 	.string "Look, look!\p"
 	.string "I copied what it said on one of\n"
-	.string "those TRAINER TIPS signs!$"
+	.string "those Ornithologist TIPS signs!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
-	.string "TRAINER TIPS!\p"
+	.string "Ornithologist TIPS!\p"
 	.string "Press START to open the MENU!$"
 
 

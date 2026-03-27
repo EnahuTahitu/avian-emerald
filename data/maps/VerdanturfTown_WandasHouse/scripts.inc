@@ -87,18 +87,18 @@ VerdanturfTown_WandasHouse_Text_StrongerSpeech:
 	.string "not feeling down anymore.\p"
 	.string "Because I have a new purpose in life.\n"
 	.string "Together with my RALTS, I'm going\l"
-	.string "to challenge POKéMON GYMS and become\l"
-	.string "a great TRAINER.\p"
+	.string "to challenge Avimon GYMS and become\l"
+	.string "a great Ornithologist.\p"
 	.string "Please watch me, {PLAYER}.\n"
 	.string "I'm going to be stronger than you.\p"
 	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+	.string "to another field study.$"
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
 	.string "WALLY: Please watch me, {PLAYER}.\n"
 	.string "I'm going to get stronger than you.\p"
 	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+	.string "to another field study.$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
 	.string "UNCLE: Oh! {PLAYER}{KUN}!\n"
@@ -108,7 +108,7 @@ VerdanturfTown_WandasHouse_Text_WallysNextDoor:
 	.string "This natural environment is doing\n"
 	.string "wonders for WALLY's health.\p"
 	.string "Maybe it's not just the environment.\n"
-	.string "It could be POKéMON that are giving\l"
+	.string "It could be Avimon that are giving\l"
 	.string "the boy hope.$"
 
 VerdanturfTown_WandasHouse_Text_WallySlippedOff:
@@ -136,10 +136,10 @@ VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
 	.string "WANDA: Don't worry about WALLY.\n"
 	.string "He'll be just fine.\p"
 	.string "I know my little cousin, and he has\n"
-	.string "POKéMON with him, too.$"
+	.string "Avimon with him, too.$"
 
 VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
-	.string "Thanks to you, I can see my girlfriend\n"
+	.string "Thanks to you, I can spot my girlfriend\n"
 	.string "every day.\l"
 	.string "Happy? You bet I am!$"
 
@@ -147,7 +147,7 @@ VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven:
 	.string "My daughter's boyfriend is a very\n"
 	.string "driven and passionate sort of person.\p"
 	.string "He's been digging a tunnel nonstop\n"
-	.string "just so he can see my daughter.\p"
+	.string "just so he can spot my daughter.\p"
 	.string "My daughter's a little concerned,\n"
 	.string "so she goes out to the tunnel a lot.$"
 
@@ -158,7 +158,7 @@ VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging:
 
 VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
 	.string "If anything were to happen to WALLY,\n"
-	.string "I would never be able to look his\l"
+	.string "I would never be able to observe his\l"
 	.string "parents in PETALBURG in the eye…$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:

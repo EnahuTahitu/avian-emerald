@@ -113,6 +113,6 @@ FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
 	.string "He's so depressed… I feel sorry for him.$"
 
 FallarborTown_CozmosHouse_Text_CozmoIsSoHappy:
-	.string "Look at PROF. COZMO…\n"
+	.string "look at PROF. COZMO…\n"
 	.string "He's so happy! I think it's cute.$"
 

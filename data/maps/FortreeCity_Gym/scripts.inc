@@ -138,11 +138,11 @@ FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "FORTREE GYM LEADER WINONA is\n"
-	.string "a master of FLYING-type POKéMON.\p"
+	.string "a master of FLYING-type Avimon.\p"
 	.string "She's waiting at the back of this GYM,\n"
 	.string "behind the rotating doors.\p"
 	.string "She's waiting for new challengers\n"
-	.string "who are trying to take wing!\p"
+	.string "who are trying to take off!\p"
 	.string "Okay, go for it!$"
 
 FortreeCity_Gym_Text_GymGuidePostVictory:
@@ -150,21 +150,21 @@ FortreeCity_Gym_Text_GymGuidePostVictory:
 	.string "You've achieved liftoff!$"
 
 FortreeCity_Gym_Text_JaredIntro:
-	.string "Behold the elegant battle style of\n"
-	.string "BIRD POKéMON!$"
+	.string "Behold the elegant field study style of\n"
+	.string "BIRD Avimon!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
 	.string "You…\n"
 	.string "You're strong…$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-	.string "A TRAINER has to be smart to keep\n"
+	.string "A Ornithologist has to be think to keep\n"
 	.string "up with unexpected turns of events.\p"
 	.string "Do you have the smarts to get to\n"
 	.string "our LEADER?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-	.string "The lovers of BIRD POKéMON aspire\n"
+	.string "The lovers of BIRD Avimon aspire\n"
 	.string "to join this GYM.\p"
 	.string "As a member of the FORTREE GYM,\n"
 	.string "I'm not allowed to lose!$"
@@ -205,7 +205,7 @@ FortreeCity_Gym_Text_AshleyPostBattle:
 	.string "FORTREE can live without fear.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-	.string "When WINONA takes to battle, her face\n"
+	.string "When WINONA takes to field study, her face\n"
 	.string "shines with beautiful determination…\p"
 	.string "I'm not letting you witness that\n"
 	.string "lovely sight!$"
@@ -221,7 +221,7 @@ FortreeCity_Gym_Text_HumbertoPostBattle:
 
 FortreeCity_Gym_Text_DariusIntro:
 	.string "You'd better know that there are all\n"
-	.string "sorts of FLYING-type POKéMON.\p"
+	.string "sorts of FLYING-type Avimon.\p"
 	.string "You do know that, right?$"
 
 FortreeCity_Gym_Text_DariusDefeat:
@@ -230,42 +230,42 @@ FortreeCity_Gym_Text_DariusDefeat:
 FortreeCity_Gym_Text_DariusPostBattle:
 	.string "Sure, you beat me all right.\n"
 	.string "But you'd better watch it! Our LEADER\l"
-	.string "WINONA's POKéMON are all business.$"
+	.string "WINONA's Avimon are all business.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
 	.string "I am WINONA. I am the LEADER of\n"
-	.string "the FORTREE POKéMON GYM.\p"
-	.string "I have become one with BIRD POKéMON\n"
+	.string "the FORTREE Avimon GYM.\p"
+	.string "I have become one with BIRD Avimon\n"
 	.string "and have soared the skies…\p"
-	.string "However grueling the battle, we have\n"
+	.string "However grueling the field study, we have\n"
 	.string "triumphed with grace…\p"
 	.string "Witness the elegant choreography\n"
-	.string "of BIRD POKéMON and I!$"
+	.string "of BIRD Avimon and I!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
-	.string "Never before have I seen a TRAINER\n"
-	.string "command POKéMON with more grace\l"
+	.string "Never before have I seen a Ornithologist\n"
+	.string "command Avimon with more grace\l"
 	.string "than I…\p"
 	.string "In recognition of your prowess,\n"
-	.string "I present to you this GYM BADGE.$"
+	.string "I present to you this Feather Crest.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
 	.string "{PLAYER} received the FEATHER BADGE\n"
 	.string "from WINONA.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "With the FEATHER BADGE, all POKéMON up\n"
+	.string "With the FEATHER BADGE, all Avimon up\n"
 	.string "to LV 70, even those received through\l"
 	.string "trades, will obey your every command.\p"
 	.string "You will also be able to use\n"
-	.string "the HM move FLY outside of battle.\p"
+	.string "the HM move flight outside of field study.\p"
 	.string "And this…\n"
 	.string "This is a gift from me.$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
 	.string "TM40 contains AERIAL ACE.\p"
-	.string "Its speed…\n"
-	.string "No POKéMON should be able to avoid it.\p"
+	.string "Its fast…\n"
+	.string "No Avimon should be able to avoid it.\p"
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
@@ -274,13 +274,13 @@ FortreeCity_Gym_Text_RegisteredWinona:
 
 FortreeCity_Gym_Text_WinonaPostBattle:
 	.string "Though I fell to you, I will remain\n"
-	.string "devoted to BIRD POKéMON.$"
+	.string "devoted to BIRD Avimon.$"
 
 FortreeCity_Gym_Text_GymStatue:
-	.string "FORTREE CITY POKéMON GYM$"
+	.string "FORTREE CITY Avimon GYM$"
 
 FortreeCity_Gym_Text_GymStatueCertified:
-	.string "FORTREE CITY POKéMON GYM\p"
+	.string "FORTREE CITY Avimon GYM\p"
 	.string "WINONA'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
@@ -288,10 +288,10 @@ FortreeCity_Gym_Text_WinonaPreRematch:
 	.string "WINONA: We humans can never escape\n"
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
-	.string "we have the power to soar!\p"
+	.string "we have the power to flight!\p"
 	.string "You have scaled the pinnacle as\n"
 	.string "the reigning CHAMPION.\p"
-	.string "Please, allow me to see your power\n"
+	.string "Please, allow me to spot your power\n"
 	.string "at full flight!$"
 
 FortreeCity_Gym_Text_WinonaRematchDefeat:
@@ -299,8 +299,8 @@ FortreeCity_Gym_Text_WinonaRematchDefeat:
 
 FortreeCity_Gym_Text_WinonaPostRematch:
 	.string "WINONA: Even though I have lost,\n"
-	.string "the wings of my heart remain unbroken.\p"
-	.string "I can rise and soar again and\n"
+	.string "the flight of my heart remain unbroken.\p"
+	.string "I can rise and flight again and\n"
 	.string "yet again.\p"
 	.string "I am convinced of it!$"
 
@@ -308,12 +308,12 @@ FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
 	.string "WINONA: We humans can never escape\n"
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
-	.string "we have the power to soar!\p"
+	.string "we have the power to flight!\p"
 	.string "You have scaled the pinnacle as\n"
 	.string "the reigning CHAMPION.\p"
-	.string "Please, allow me to see your power\n"
+	.string "Please, allow me to spot your power\n"
 	.string "at full flight!\p"
 	.string "Oh, no… Do you have but one\n"
-	.string "POKéMON with you?\p"
-	.string "Please return with two POKéMON\n"
+	.string "Avimon with you?\p"
+	.string "Please return with two Avimon\n"
 	.string "at the very least.$"

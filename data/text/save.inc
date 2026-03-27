@@ -1,25 +1,26 @@
 	.align 2
 gText_ConfirmSave::
-	.string "Would you like to save the game?$"
+	.string "Would you like to log this migration\n"
+	.string "in your save file?$"
 
 gText_AlreadySavedFile::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "A save file already exists.\n"
+	.string "Overwrite the current field log?$"
 
 gText_SavingDontTurnOff::
 	.string "SAVING…\n"
 	.string "DON'T TURN OFF THE POWER.$"
 
 gText_PlayerSavedGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} saved the field log.$"
 
 gText_DifferentSaveFile::
 	.string "WARNING!\p"
 	.string "There is a different game file that\n"
 	.string "is already saved.\p"
 	.string "If you save now, the other file's\n"
-	.string "flight progress, including items and\l"
-	.string "AVIMON, will be entirely lost.\p"
+	.string "progress, including items and\l"
+	.string "Avimon, will be entirely lost.\p"
 	.string "Are you sure you want to save now\n"
 	.string "and overwrite the other save file?$"
 

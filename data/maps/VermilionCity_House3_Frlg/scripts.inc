@@ -24,7 +24,7 @@ VermilionCity_House3_EventScript_Letter::
 	end
 
 VermilionCity_House3_Text_PidgeyFlyLetterToSaffron::
-	.string "I'm getting my PIDGEY to fly a\n"
+	.string "I'm getting my PIDGEY to flight a\n"
 	.string "letter to SAFFRON in the north.$"
 
 VermilionCity_House3_Text_Pidgey::
@@ -32,7 +32,7 @@ VermilionCity_House3_Text_Pidgey::
 
 VermilionCity_House3_Text_DearPippiLetter::
 	.string "Dear PIPPI,\n"
-	.string "I hope to see you soon.\p"
+	.string "I hope to spot you soon.\p"
 	.string "I heard SAFFRON has problems with\n"
 	.string "TEAM ROCKET.\p"
 	.string "VERMILION appears to be safe.$"

@@ -2,7 +2,7 @@ EventTicket_Text_OldSeaMapTooFar:
 	.string "What's up, youngster?\p"
 	.string "What, it's you who's supposed to have\n"
 	.string "a tattered old map?\p"
-	.string "Let's have a look.\n"
+	.string "Let's have a observe.\n"
 	.string "… … … … … …\p"
 	.string "Boy, this is quite a ways away.\n"
 	.string "I'm afraid I can't help you…$"

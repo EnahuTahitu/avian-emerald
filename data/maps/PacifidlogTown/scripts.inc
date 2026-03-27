@@ -34,7 +34,7 @@ PacifidlogTown_Text_FastRunningCurrent:
 	.string "up swept away somewhere else.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
-	.string "See, isn't it neat?\n"
+	.string "spot, isn't it neat?\n"
 	.string "These houses are on water!\p"
 	.string "I was born here!$"
 

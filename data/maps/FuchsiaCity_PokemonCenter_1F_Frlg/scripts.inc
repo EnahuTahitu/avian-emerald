@@ -27,20 +27,20 @@ FuchsiaCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon::
-	.string "You can't become a good TRAINER\n"
-	.string "with just one strong POKéMON.\p"
-	.string "But raising many POKéMON evenly\n"
+	.string "You can't become a good Ornithologist\n"
+	.string "with just one strong Avimon.\p"
+	.string "But raising many Avimon evenly\n"
 	.string "is no easy task, either.$"
 
 FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian::
 	.string "There's a narrow trail west of\n"
 	.string "VIRIDIAN CITY.\p"
-	.string "It goes to the POKéMON LEAGUE HQ.\n"
+	.string "It goes to the Avimon LEAGUE HQ.\n"
 	.string "The HQ governs all TRAINERS.$"
 
 FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex::
-	.string "If you're working on a POKéDEX,\n"
+	.string "If you're working on a AVIARYDEX,\n"
 	.string "visit the SAFARI ZONE.\p"
-	.string "All sorts of rare POKéMON breed\n"
+	.string "All sorts of rare Avimon breed\n"
 	.string "there.$"
 

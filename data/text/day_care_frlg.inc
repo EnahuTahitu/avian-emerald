@@ -3,21 +3,21 @@
 DayCare_Text_ImDaycareManSpeakToMyWife::
 	.string "I'm the DAY-CARE MAN.\p"
 	.string "I help take care of the precious\n"
-	.string "AVIMON of BIRD KEEPERS.\p"
+	.string "Avimon of BIRD KEEPERS.\p"
 	.string "If you'd like me to raise your\n"
-	.string "AVIMON, have a word with my wife.$"
+	.string "Avimon, have a word with my wife.$"
 
 DayCare_Text_DoYouWantEgg::
 	.string "Ah, it's you!\p"
-	.string "We were raising your AVIMON, and\n"
+	.string "We were raising your Avimon, and\n"
 	.string "my goodness, were we surprised!\p"
-	.string "Your AVIMON had an EGG!\p"
+	.string "Your Avimon had an EGG!\p"
 	.string "We don't know how it got there,\n"
-	.string "but your AVIMON had it.\p"
+	.string "but your Avimon had it.\p"
 	.string "You do want it, yes?$"
 
 DayCare_Text_YourMonIsDoingFine::
-	.string "Ah, it's you! Good to see you.\n"
+	.string "Ah, it's you! Good to spot you.\n"
 	.string "Your {STR_VAR_1}'s doing fine.$"
 
 DayCare_Text_IllKeepIt::
@@ -49,11 +49,11 @@ DayCare_Text_IWillKeepDoYouWantIt::
 
 DayCare_Text_WouldYouLikeUsToRaiseMon::
 	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise AVIMON for you.\p"
+	.string "We can raise Avimon for you.\p"
 	.string "Would you like us to raise one?$"
 
 DayCare_Text_WhichMonShouldWeRaise::
-	.string "Which AVIMON should we raise for\n"
+	.string "Which Avimon should we raise for\n"
 	.string "you?$"
 
 DayCare_Text_WellRaiseYourMon::
@@ -62,9 +62,9 @@ DayCare_Text_WellRaiseYourMon::
 	.string "Come back for it later.$"
 
 DayCare_Text_WeCanRaiseOneMore::
-	.string "We can raise two of your AVIMON.\p"
+	.string "We can raise two of your Avimon.\p"
 	.string "Would you like us to raise one\n"
-	.string "more AVIMON for you?$"
+	.string "more Avimon for you?$"
 
 DayCare_Text_HusbandWasLookingForYou::
 	.string "My husband was looking for you.$"
@@ -86,8 +86,8 @@ DayCare_Text_ComeAgain::
 
 DayCare_Text_GoodToSeeYou::
 	.string "Ah, it's you!\n"
-	.string "Good to see you.\p"
-	.string "Your AVIMON can only be doing\n"
+	.string "Good to spot you.\p"
+	.string "Your Avimon can only be doing\n"
 	.string "good!$"
 
 DayCare_Text_YourMonHasGrownXLevels::
@@ -95,8 +95,8 @@ DayCare_Text_YourMonHasGrownXLevels::
 	.string "grown by {STR_VAR_2}.$"
 
 DayCare_Text_YourPartyIsFull::
-	.string "Your AVIMON party is full.\n"
-	.string "Make room, then come see me.$"
+	.string "Your Avimon party is full.\n"
+	.string "Make room, then come spot me.$"
 
 DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
@@ -107,7 +107,7 @@ DayCare_Text_ItWillCostX::
 
 DayCare_Text_HeresYourMon::
 	.string "Perfect!\n"
-	.string "Here's your AVIMON.$"
+	.string "Here's your Avimon.$"
 
 DayCare_Text_TookBackMon::
 	.string "{PLAYER} took back {STR_VAR_1} from\n"
@@ -115,14 +115,14 @@ DayCare_Text_TookBackMon::
 
 DayCare_Text_YouHaveJustOneMon::
 	.string "Oh? But you have just one\n"
-	.string "AVIMON.\p"
+	.string "Avimon.\p"
 	.string "Come back another time.$"
 
 DayCare_Text_TakeYourMonBack::
-	.string "Will you take your AVIMON back?$"
+	.string "Will you take your Avimon back?$"
 
 DayCare_Text_WhatWillYouBattleWith::
-	.string "If you leave me that AVIMON,\n"
+	.string "If you leave me that Avimon,\n"
 	.string "what will you territory clash with?\p"
 	.string "Come back another time.$"
 

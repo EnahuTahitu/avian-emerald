@@ -139,7 +139,7 @@ CeladonCity_Text_KeepOutOfTeamRocketsWay::
 	.string "Keep out of TEAM ROCKET's way!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
-	.string "TRAINER TIPS\p"
+	.string "Ornithologist TIPS\p"
 	.string "X ACCURACY boosts the accuracy of\n"
 	.string "techniques.\p"
 	.string "DIRE HIT jacks up the likelihood\n"
@@ -152,7 +152,7 @@ CeladonCity_Text_CitySign::
 	.string "The City of Rainbow Dreams$"
 
 CeladonCity_Text_GymSign::
-	.string "CELADON CITY POKéMON GYM\n"
+	.string "CELADON CITY Avimon GYM\n"
 	.string "LEADER: ERIKA\l"
 	.string "The Nature-Loving Princess!$"
 
@@ -164,10 +164,10 @@ CeladonCity_Text_DeptStoreSign::
 	.string "CELADON DEPT. STORE!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-	.string "TRAINER TIPS\p"
-	.string "GUARD SPEC. protects POKéMON\n"
+	.string "Ornithologist TIPS\p"
+	.string "GUARD SPEC. protects Avimon\n"
 	.string "from status-reduction moves during\l"
-	.string "battle.\p"
+	.string "field study.\p"
 	.string "Get your items at the\n"
 	.string "CELADON DEPT. STORE!$"
 
@@ -202,7 +202,7 @@ Text_SoftboiledDeclined::
 	.string "I hope we can chat again.$"
 
 Text_SoftboiledWhichMon::
-	.string "So, who's the POKéMON that gets\n"
+	.string "So, who's the Avimon that gets\n"
 	.string "the chance to learn SOFTBOILED?$"
 
 Text_SoftboiledTaught::

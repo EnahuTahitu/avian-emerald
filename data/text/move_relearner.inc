@@ -15,16 +15,16 @@ MoveRelearner_Text_TutormoveMoves:
 	.string "Tutor Moves$"
 
 MoveRelearner_Text_SeeYa:
-	.string "See ya!$"
+	.string "spot ya!$"
 
 MoveRelearner_Text_AnythingElse:
 	.string "Is there anything else I may do for you?$"
 
 MoveRelearner_Text_ChoosePkmn:
-	.string "Please choose your Pokémon.$"
+	.string "Please choose your Avimon.$"
 
 MoveRelearner_Text_HaveNoPkmn:
-	.string "You have no Pokémon.$"
+	.string "You have no Avimon.$"
 
 MoveRelearner_Text_CantTeachMoveToEgg:
 	.string "Sorry…\n"
@@ -33,7 +33,7 @@ MoveRelearner_Text_CantTeachMoveToEgg:
 MoveRelearner_Text_CantTeachMoveToPkmn:
 	.string "Sorry…\p"
 	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that Pokémon.$"
+	.string "I can teach that Avimon.$"
 
 MoveRelearner_Text_LevelUpMoveLWR::
 	.string "level up move$"

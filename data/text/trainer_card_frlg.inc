@@ -1,6 +1,6 @@
 CeladonCity_GameCorner_Text_TryPokemonPrinter::
-	.string "It's an AVIMON PRINTER!\p"
-	.string "It can put a print of your AVIMON\n"
+	.string "It's an Avimon PRINTER!\p"
+	.string "It can put a print of your Avimon\n"
 	.string "on the back of your BIRD KEEPER CARD.\p"
 	.string "It costs only ¥50.\n"
 	.string "Would you like to try it?$"
@@ -17,7 +17,7 @@ CeladonCity_GameCorner_Text_BigSmileForPhoto::
 	.string "Flash!$"
 
 CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
-	.string "Your AVIMON print is ready!\n"
+	.string "Your Avimon print is ready!\n"
 	.string "Check your BIRD KEEPER CARD.$"
 
 FourIsland_House2_Text_WishICouldShowOffStickers::
@@ -28,9 +28,9 @@ FourIsland_House2_Text_WishICouldShowOffStickers::
 FourIsland_House2_Text_GiveYouStickerIfYouBrag::
 	.string "Oh, excellent!\n"
 	.string "You've come to the right place!\p"
-	.string "Look, look! See? See?\n"
+	.string "Look, look! spot? spot?\n"
 	.string "These are my STICKERS!\l"
-	.string "Look how many I got!\p"
+	.string "observe how many I got!\p"
 	.string "I bet you want some.\n"
 	.string "I bet you do!\p"
 	.string "I'll give a STICKER if you can tell\n"
@@ -64,7 +64,7 @@ FourIsland_House2_Text_WowHoFHigh::
 	.string "Whoa! You've made it into the\n"
 	.string "HALL OF FAME that often?\l"
 	.string "That's seriously incredible, yup!\p"
-	.string "You own the AVIMON LEAGUE!\n"
+	.string "You own the Avimon LEAGUE!\n"
 	.string "I'll give you one of these.$"
 
 FourIsland_House2_Text_WowHoFHighest::
@@ -88,7 +88,7 @@ FourIsland_House2_Text_LivingLegendHoF::
 	.string "I have no SITCKERS left to give.$"
 
 FourIsland_House2_Text_WowEggsLowest::
-	.string "Oh, wow, there are AVIMON EGGS?\n"
+	.string "Oh, wow, there are Avimon EGGS?\n"
 	.string "I didn't know that!\p"
 	.string "That's pretty good, yup!\n"
 	.string "I'll give you one of these.$"

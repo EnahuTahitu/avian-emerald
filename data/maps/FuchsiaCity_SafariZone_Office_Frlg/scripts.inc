@@ -20,14 +20,14 @@ FuchsiaCity_SafariZone_Office_EventScript_Worker4::
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
 	.string "We nicknamed the WARDEN\n"
 	.string "“SLOWPOKE.”\p"
-	.string "You know, he has that vacant look\n"
+	.string "You know, he has that vacant observe\n"
 	.string "like a SLOWPOKE.$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
 	.string "WARDEN SLOWPOKE is very\n"
-	.string "knowledgeable about POKéMON.\p"
+	.string "knowledgeable about Avimon.\p"
 	.string "He even has some fossils of rare,\n"
-	.string "extinct POKéMON.$"
+	.string "extinct Avimon.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
 	.string "WARDEN SLOWPOKE came in, but\n"
@@ -39,6 +39,6 @@ FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
 	.string "promotion campaign right now.\p"
 	.string "Try to get to the farthest corner\n"
 	.string "of the SAFARI ZONE.\p"
-	.string "If you can make it, you'll win a\n"
+	.string "If you can make it, you'll prevail a\n"
 	.string "very convenient prize.$"
 

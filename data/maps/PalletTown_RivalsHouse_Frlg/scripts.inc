@@ -172,7 +172,7 @@ PalletTown_RivalsHouse_Text_HiBrothersAtLab::
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
 	.string "DAISY: {PLAYER}, I heard you had\n"
-	.string "a battle against {RIVAL}.\p"
+	.string "a field study against {RIVAL}.\p"
 	.string "I wish I'd seen that!$"
 
 PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
@@ -195,7 +195,7 @@ PalletTown_RivalsHouse_Text_ExplainTownMap::
 	.string "names of places.$"
 
 PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
-	.string "DAISY: Just like people, POKéMON\n"
+	.string "DAISY: Just like people, Avimon\n"
 	.string "are living things.\p"
 	.string "When they get tired, please give\n"
 	.string "them a rest.$"
@@ -206,15 +206,15 @@ PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
 	.string "The shelves are crammed full of\n"
-	.string "books on POKéMON.$"
+	.string "books on Avimon.$"
 
 PalletTown_RivalsHouse_Text_LikeMeToGroomMon::
 	.string "DAISY: Hi, {PLAYER}!\n"
 	.string "Good timing.\p"
 	.string "I'm about to have some tea.\n"
 	.string "Would you like to join me?\p"
-	.string "Oh, but look.\n"
-	.string "Your POKéMON are a little dirty.\p"
+	.string "Oh, but observe.\n"
+	.string "Your Avimon are a little dirty.\p"
 	.string "Would you like me to groom one?$"
 
 PalletTown_RivalsHouse_Text_DontNeedAnyGrooming::
@@ -236,29 +236,29 @@ PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 	.string "{FONT_NORMAL}{STR_VAR_1} looks dreamily content…\p"
 	.string "{FONT_FEMALE}DAISY: There you go! All done.\n"
 #endif
-	.string "See? Doesn't it look nice?\p"
+	.string "spot? Doesn't it observe nice?\p"
 	.string "Giggle…\n"
-	.string "It's such a cute POKéMON.$"
+	.string "It's such a cute Avimon.$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
 	.string "Oh, sorry. I honestly can't\n"
 	.string "groom an EGG.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
-	.string "DAISY: Your POKéMON grow to love\n"
+	.string "DAISY: Your Avimon grow to love\n"
 	.string "you if you raise them with love.\p"
 	.string "For example, {PLAYER}, may I see\n"
-	.string "your first POKéMON?$"
+	.string "your first Avimon?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
 	.string "It couldn't possibly love you\n"
 	.string "any more than it does now.\p"
-	.string "Your POKéMON is happy beyond\n"
+	.string "Your Avimon is happy beyond\n"
 	.string "words.$"
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
 	.string "It looks very happy.\p"
-	.string "I wish {RIVAL} could see this and\n"
+	.string "I wish {RIVAL} could spot this and\n"
 	.string "learn something from it.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
@@ -272,7 +272,7 @@ PalletTown_RivalsHouse_Text_ItsWarmingUpToYou::
 PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
 	.string "It's not quite familiar with you\n"
 	.string "yet.\p"
-	.string "POKéMON are all quite wary when\n"
+	.string "Avimon are all quite wary when\n"
 	.string "you first get them.$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
@@ -285,7 +285,7 @@ PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
 	.string "…Um, it's not easy for me to say\n"
 	.string "this, but…\p"
 	.string "Is there some reason why your\n"
-	.string "POKéMON would hate you so much?$"
+	.string "Avimon would hate you so much?$"
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
 	.string "“The lovely and sweet\n"

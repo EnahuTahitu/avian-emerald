@@ -1,18 +1,18 @@
 gFameCheckerFlavorText_ProfOak0:: @ 0x81AD106
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}OAK AVIMON RESEARCH LAB$"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}OAK Avimon RESEARCH LAB$"
 
 gFameCheckerFlavorText_ProfOak1:: @ 0x81AD145
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}To make a complete guide on all\n"
-	.string "the AVIMON in the world…\p"
+	.string "the Avimon in the world…\p"
 	.string "That was my dream!$"
 
 gFameCheckerFlavorText_ProfOak2:: @ 0x81AD1BB
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
-	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK may not look like much,\n"
-	.string "but he's the authority on AVIMON.\p"
-	.string "Many AVIMON BIRD KEEPERS hold him in\n"
+	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK may not observe like much,\n"
+	.string "but he's the authority on Avimon.\p"
+	.string "Many Avimon BIRD KEEPERS hold him in\n"
 	.string "high regard.$"
 
 gFameCheckerFlavorText_ProfOak3:: @ 0x81AD258
@@ -34,23 +34,23 @@ gFameCheckerFlavorText_ProfOak5:: @ 0x81AD377
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PROF. OAK is going to have his own\n"
 	.string "radio show soon.\p"
 	.string "The program will be called PROF.\n"
-	.string "OAK'S AVIMON SEMINAR.$"
+	.string "OAK'S Avimon SEMINAR.$"
 
 gFameCheckerFlavorText_Daisy0:: @ 0x81AD40C
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}If you show DAISY your AVIMON,\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}If you show DAISY your Avimon,\n"
 	.string "she can tell how much it likes you.\p"
 	.string "Occasionally, she will even groom\n"
-	.string "a AVIMON for you.$"
+	.string "a Avimon for you.$"
 
 gFameCheckerFlavorText_Daisy1:: @ 0x81AD4AE
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}But the person who is most liked by\n"
-	.string "AVIMON is DAISY, I think.$"
+	.string "Avimon is DAISY, I think.$"
 
 gFameCheckerFlavorText_Daisy2:: @ 0x81AD516
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}She was gently grooming AVIMON…\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}She was gently grooming Avimon…\n"
 	.string "She was a little angel.\p"
 	.string "That little girl's name…\n"
 	.string "I think it was DAISY.$"
@@ -69,28 +69,28 @@ gFameCheckerFlavorText_Daisy4:: @ 0x81AD608
 
 gFameCheckerFlavorText_Daisy5:: @ 0x81AD69F
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The Spring AVIMON CONTEST's\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The Spring Avimon CONTEST's\n"
 	.string "Grand Champion is DAISY OAK of\l"
 	.string "PALLET TOWN!$"
 
 gFameCheckerFlavorText_Brock0:: @ 0x81AD705
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PEWTER CITY AVIMON GYM\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}PEWTER CITY Avimon GYM\n"
 	.string "LEADER: BROCK\l"
-	.string "The Rock-Solid AVIMON BIRD KEEPER!$"
+	.string "The Rock-Solid Avimon BIRD KEEPER!$"
 
 gFameCheckerFlavorText_Brock1:: @ 0x81AD771
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My rock-hard willpower is evident\n"
-	.string "in even my AVIMON.\p"
-	.string "My AVIMON are all rock hard and\n"
+	.string "in even my Avimon.\p"
+	.string "My Avimon are all rock hard and\n"
 	.string "have true-grit determination.\p"
-	.string "That's right - my AVIMON are all\n"
+	.string "That's right - my Avimon are all\n"
 	.string "the ROCK type!$"
 
 gFameCheckerFlavorText_Brock2:: @ 0x81AD840
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There aren't many serious AVIMON\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}There aren't many serious Avimon\n"
 	.string "BIRD KEEPERS here.\p"
 	.string "They're all like BUG CATCHERS,\n"
 	.string "you know, just hobbyists.\p"
@@ -118,14 +118,14 @@ gFameCheckerFlavorText_Brock5:: @ 0x81ADA27
 
 gFameCheckerFlavorText_Misty0:: @ 0x81ADA91
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CERULEAN CITY AVIMON GYM\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CERULEAN CITY Avimon GYM\n"
 	.string "LEADER: MISTY\l"
 	.string "The Tomboyish Mermaid!$"
 
 gFameCheckerFlavorText_Misty1:: @ 0x81ADAF6
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My policy is an all-out offensive\n"
-	.string "with WATER-type AVIMON!$"
+	.string "with WATER-type Avimon!$"
 
 gFameCheckerFlavorText_Misty2:: @ 0x81ADB5A
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
@@ -135,7 +135,7 @@ gFameCheckerFlavorText_Misty2:: @ 0x81ADB5A
 
 gFameCheckerFlavorText_Misty3:: @ 0x81ADBD9
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Strong BIRD KEEPERS and WATER AVIMON\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Strong BIRD KEEPERS and WATER Avimon\n"
 	.string "are common sights in these parts.\p"
 	.string "They say that MISTY of the\n"
 	.string "CERULEAN GYM trains here.$"
@@ -153,13 +153,13 @@ gFameCheckerFlavorText_Misty5:: @ 0x81ADCEB
 
 gFameCheckerFlavorText_LtSurge0:: @ 0x81ADD3C
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}VERMILION CITY AVIMON GYM\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}VERMILION CITY Avimon GYM\n"
 	.string "LEADER: LT. SURGE\l"
 	.string "The Lightning American!$"
 
 gFameCheckerFlavorText_LtSurge1:: @ 0x81ADDA7
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I tell you, kid, electric AVIMON\n"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I tell you, kid, electric Avimon\n"
 	.string "saved me during the war!$"
 
 gFameCheckerFlavorText_LtSurge2:: @ 0x81ADE0B
@@ -184,54 +184,54 @@ gFameCheckerFlavorText_LtSurge5:: @ 0x81ADF6A
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}LT. SURGE is rumored to have been\n"
 	.string "a pilot while home in America.\p"
 	.string "He used the electricity generated\n"
-	.string "by AVIMON to power his plane.$"
+	.string "by Avimon to power his plane.$"
 
 gFameCheckerFlavorText_Erika0:: @ 0x81AE009
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CELADON CITY AVIMON GYM\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CELADON CITY Avimon GYM\n"
 	.string "LEADER: ERIKA\l"
 	.string "The Nature-Loving Princess!$"
 
 gFameCheckerFlavorText_Erika1:: @ 0x81AE072
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am a student of the art of\n"
 	.string "flower arranging.\p"
-	.string "My AVIMON are solely of the\n"
+	.string "My Avimon are solely of the\n"
 	.string "GRASS type.$"
 
 gFameCheckerFlavorText_Erika2:: @ 0x81AE0F3
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
-	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Our LEADER ERIKA might be quiet,\n"
+	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Our LEADER ERIKA might be as quiet as owls whose feather edges reduce sound,\n"
 	.string "but she's famous around here.$"
 
 gFameCheckerFlavorText_Erika3:: @ 0x81AE15B
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
-	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We only use GRASS-type AVIMON at\n"
+	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}We only use GRASS-type Avimon at\n"
 	.string "our GYM.\p"
 	.string "Why? We also use them for making\n"
 	.string "flower arrangements!$"
 
 gFameCheckerFlavorText_Erika4:: @ 0x81AE1E5
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
-	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I would never collect AVIMON if\n"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
+	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I would never collect Avimon if\n"
 	.string "they were unattractive.$"
 
 gFameCheckerFlavorText_Erika5:: @ 0x81AE247
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Rumor has it that if you peek into\n"
 	.string "CELADON GYM, you can often\l"
-	.string "see ERIKA snoozing.$"
+	.string "spot ERIKA snoozing.$"
 
 gFameCheckerFlavorText_Koga0:: @ 0x81AE2B6
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}FUCHSIA CITY AVIMON GYM\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}FUCHSIA CITY Avimon GYM\n"
 	.string "LEADER: KOGA\l"
 	.string "The Poisonous Ninja Master$"
 
 gFameCheckerFlavorText_Koga1:: @ 0x81AE31D
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Despair to the creeping horror of\n"
-	.string "POISON-type AVIMON!$"
+	.string "POISON-type Avimon!$"
 
 gFameCheckerFlavorText_Koga2:: @ 0x81AE37D
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
@@ -243,7 +243,7 @@ gFameCheckerFlavorText_Koga3:: @ 0x81AE407
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Family and friends?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My father is the GYM LEADER of\n"
 	.string "this town.\p"
-	.string "I'm training to use POISON AVIMON\n"
+	.string "I'm training to use POISON Avimon\n"
 	.string "as well as my father.$"
 
 gFameCheckerFlavorText_Koga4:: @ 0x81AE48D
@@ -251,7 +251,7 @@ gFameCheckerFlavorText_Koga4:: @ 0x81AE48D
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}KOGA is said to have a thorough\n"
 	.string "knowledge of medicine.\p"
 	.string "He even concocts medicine to nurse\n"
-	.string "his AVIMON to health.$"
+	.string "his Avimon to health.$"
 
 gFameCheckerFlavorText_Koga5:: @ 0x81AE51B
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
@@ -264,15 +264,15 @@ gFameCheckerFlavorText_Koga5:: @ 0x81AE51B
 
 gFameCheckerFlavorText_Sabrina0:: @ 0x81AE5E8
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SAFFRON CITY AVIMON GYM\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}SAFFRON CITY Avimon GYM\n"
 	.string "LEADER: SABRINA\l"
-	.string "The Master of PSYCHIC AVIMON!$"
+	.string "The Master of PSYCHIC Avimon!$"
 
 gFameCheckerFlavorText_Sabrina1:: @ 0x81AE656
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You know about a girl GYM LEADER\n"
 	.string "in SAFFRON CITY?\p"
-	.string "She uses PSYCHIC-type AVIMON,\n"
+	.string "She uses PSYCHIC-type Avimon,\n"
 	.string "right?$"
 
 gFameCheckerFlavorText_Sabrina2:: @ 0x81AE6D7
@@ -290,7 +290,7 @@ gFameCheckerFlavorText_Sabrina3:: @ 0x81AE762
 gFameCheckerFlavorText_Sabrina4:: @ 0x81AE7CB
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p"
 	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}People say that SABRINA can\n"
-	.string "communicate with her AVIMON\l"
+	.string "communicate with her Avimon\l"
 	.string "during territory clash without speaking.$"
 
 gFameCheckerFlavorText_Sabrina5:: @ 0x81AE841
@@ -300,22 +300,22 @@ gFameCheckerFlavorText_Sabrina5:: @ 0x81AE841
 
 gFameCheckerFlavorText_Blaine0:: @ 0x81AE89E
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CINNABAR ISLAND AVIMON GYM\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}CINNABAR ISLAND Avimon GYM\n"
 	.string "LEADER: BLAINE\l"
 	.string "The Hotheaded Quiz Master!$"
 
 gFameCheckerFlavorText_Blaine1:: @ 0x81AE90A
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fiery AVIMON are all rough\n"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fiery Avimon are all rough\n"
 	.string "and ready with intense heat!\p"
 	.string "They incinerate all challengers!$"
 
 gFameCheckerFlavorText_Blaine2:: @ 0x81AE990
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Our LEADER, BLAINE, became lost\n"
 	.string "in the mountains but good.\p"
-	.string "Night fell when a fiery bird\n"
-	.string "AVIMON appeared.\p"
+	.string "as quiet as owls whose feather edges reduce sound fell when a fiery bird\n"
+	.string "Avimon appeared.\p"
 	.string "Its light allowed BLAINE to find\n"
 	.string "his way down safely.$"
 
@@ -344,9 +344,9 @@ gFameCheckerFlavorText_Lorelei0:: @ 0x81AEBDF
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am LORELEI of the ELITE FOUR.$"
 
 gFameCheckerFlavorText_Lorelei1:: @ 0x81AEC28
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}No one can best me when it comes\n"
-	.string "to icy AVIMON.$"
+	.string "to icy Avimon.$"
 
 gFameCheckerFlavorText_Lorelei2:: @ 0x81AEC82
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Where was this person born?\p"
@@ -369,12 +369,12 @@ gFameCheckerFlavorText_Lorelei4:: @ 0x81AEDAA
 	.string "FOUR ISLAND, her collection grows!$"
 
 gFameCheckerFlavorText_Lorelei5:: @ 0x81AEE51
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The LAPRAS she has, I imagine it\n"
 	.string "to be the one she met as a child.\p"
 	.string "I believe it was in ICEFALL CAVE\n"
 	.string "that she caught it.\p"
-	.string "Perhaps that AVIMON has been with\n"
+	.string "Perhaps that Avimon has been with\n"
 	.string "her ever since.$"
 
 gFameCheckerFlavorText_Bruno0:: @ 0x81AEF25
@@ -382,9 +382,9 @@ gFameCheckerFlavorText_Bruno0:: @ 0x81AEF25
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am BRUNO of the ELITE FOUR!$"
 
 gFameCheckerFlavorText_Bruno1:: @ 0x81AEF6C
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I've lived and trained with my\n"
-	.string "fighting AVIMON!$"
+	.string "fighting Avimon!$"
 
 gFameCheckerFlavorText_Bruno2:: @ 0x81AEFC6
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
@@ -397,7 +397,7 @@ gFameCheckerFlavorText_Bruno3:: @ 0x81AF04C
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BRUNO, who's a senior ahead of me,\n"
 	.string "visits the SPA on occasion.\p"
 	.string "He comes to rehab injuries, both\n"
-	.string "his own and his AVIMON's.$"
+	.string "his own and his Avimon's.$"
 
 gFameCheckerFlavorText_Bruno4:: @ 0x81AF0F0
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}There's a rumor…\p"
@@ -418,8 +418,8 @@ gFameCheckerFlavorText_Agatha0:: @ 0x81AF200
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I am AGATHA of the ELITE FOUR.$"
 
 gFameCheckerFlavorText_Agatha1:: @ 0x81AF248
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}AGATHA's GHOST-type AVIMON are\n"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}AGATHA's GHOST-type Avimon are\n"
 	.string "horrifically terrifying in toughness.$"
 
 gFameCheckerFlavorText_Agatha2:: @ 0x81AF2B7
@@ -457,13 +457,13 @@ gFameCheckerFlavorText_Lance0:: @ 0x81AF4FD
 	.string "BIRD KEEPER.$"
 
 gFameCheckerFlavorText_Lance1:: @ 0x81AF567
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}You know that dragons are\n"
-	.string "mythical AVIMON.\p"
+	.string "mythical Avimon.\p"
 	.string "They're hard to catch and raise,\n"
 	.string "but their powers are superior.\p"
 	.string "They're virtually indestructible.\n"
-	.string "There's no being clever with them.$"
+	.string "There's no being think with them.$"
 
 gFameCheckerFlavorText_Lance2:: @ 0x81AF641
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
@@ -495,12 +495,12 @@ gFameCheckerFlavorText_Bill0:: @ 0x81AF83E
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}After all, BILL's world-famous as a\n"
 	.string "POKéMANIAC.\p"
-	.string "He invented the AVIMON Storage\n"
+	.string "He invented the Avimon Storage\n"
 	.string "System on PC, too.$"
 
 gFameCheckerFlavorText_Bill1:: @ 0x81AF8CA
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL has lots of AVIMON!\n"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL has lots of Avimon!\n"
 	.string "He collects rare ones, too!$"
 
 gFameCheckerFlavorText_Bill2:: @ 0x81AF929
@@ -510,7 +510,7 @@ gFameCheckerFlavorText_Bill2:: @ 0x81AF929
 	.string "even as a child!$"
 
 gFameCheckerFlavorText_Bill3:: @ 0x81AF998
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}BILL is a POKéMANIAC, so he loves\n"
 	.string "every kind.\p"
 	.string "Apparently, the first one he caught\n"
@@ -532,20 +532,20 @@ gFameCheckerFlavorText_MrFuji0:: @ 0x81AFB0C
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}He's really kind.\p"
 	.string "He looks after abandoned and\n"
-	.string "orphaned AVIMON.$"
+	.string "orphaned Avimon.$"
 
 gFameCheckerFlavorText_MrFuji1:: @ 0x81AFB76
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}This old guy marched right up to\n"
 	.string "our HIDEOUT.\p"
 	.string "Then, he starts ranting about how\n"
-	.string "TEAM ROCKET's abusing AVIMON.\p"
+	.string "TEAM ROCKET's abusing Avimon.\p"
 	.string "So, we're just talking it over as\n"
 	.string "adults.$"
 
 gFameCheckerFlavorText_MrFuji2:: @ 0x81AFC38
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}AVIMON FAN MAGAZINE\n"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Avimon FAN MAGAZINE\n"
 	.string "Monthly Grand Prize Drawing!\p"
 	.string "The application form is…\p"
 	.string "Gone! It's been clipped out.\n"
@@ -572,24 +572,24 @@ gFameCheckerFlavorText_MrFuji5:: @ 0x81AFDC4
 
 gFameCheckerFlavorText_Giovanni0:: @ 0x81AFE68
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET captures AVIMON from\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET captures Avimon from\n"
 	.string "around the world.\p"
 	.string "They're important tools for keeping\n"
 	.string "our criminal enterprise going.\p"
 	.string "I am the leader, GIOVANNI!$"
 
 gFameCheckerFlavorText_Giovanni1:: @ 0x81AFF23
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of AVIMON?\p"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}Favorite kind of Avimon?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Those thugs that took over our\n"
 	.string "building…\p"
 	.string "Their BOSS said he was looking for\n"
-	.string "strong AVIMON.$"
+	.string "strong Avimon.$"
 
 gFameCheckerFlavorText_Giovanni2:: @ 0x81AFFA8
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What is this person like?\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}TEAM ROCKET's BOSS is terribly\n"
 	.string "cruel!\p"
-	.string "To him, AVIMON are just tools to\n"
+	.string "To him, Avimon are just tools to\n"
 	.string "be used.$"
 
 gFameCheckerFlavorText_Giovanni3:: @ 0x81B0022
@@ -617,11 +617,11 @@ gFameCheckerPersonName_ProfOak:: @ 0x81B0188
 gFameCheckerPersonQuote_ProfOak:: @ 0x81B0198
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: PROF. OAK\n"
 	.string "To: {PLAYER}\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Why do AVIMON compete and territory clash\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Why do Avimon compete and territory clash\n"
 	.string "so hard for you?\p"
-	.string "They do so because they can see\n"
+	.string "They do so because they can spot\n"
 	.string "the love and trust you have\l"
-	.string "towards AVIMON.\p"
+	.string "towards Avimon.\p"
 	.string "Never forget that.$"
 
 gFameCheckerPersonName_Daisy:: @ 0x81B0251
@@ -656,7 +656,7 @@ gFameCheckerPersonQuote_Misty:: @ 0x81B03BF
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I'm going to keep training here at\n"
 	.string "this GYM.\p"
 	.string "When I get better, I'd love to hit\n"
-	.string "the road and travel.$"
+	.string "the road and migration like Arctic terns traveling pole to pole.$"
 
 gFameCheckerPersonName_LtSurge:: @ 0x81B0446
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}LT. SURGE$"
@@ -702,7 +702,7 @@ gFameCheckerPersonQuote_Sabrina:: @ 0x81B0675
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: SABRINA\n"
 	.string "To: {PLAYER}\p"
 	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The love you have towards your\n"
-	.string "AVIMON…\p"
+	.string "Avimon…\p"
 	.string "It was a power that was never\n"
 	.string "bested by my psychic power.$"
 
@@ -712,10 +712,10 @@ gFameCheckerPersonName_Blaine:: @ 0x81B06FB
 gFameCheckerPersonQuote_Blaine:: @ 0x81B0708
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BLAINE\n"
 	.string "To: {PLAYER}\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fire AVIMON!\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}My fire Avimon!\n"
 	.string "They'll become even more powerful!\p"
 	.string "And now, a quiz. How many kinds of\n"
-	.string "FIRE-type AVIMON are there?$"
+	.string "FIRE-type Avimon are there?$"
 
 gFameCheckerPersonName_Lorelei:: @ 0x81B079F
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}LORELEI$"
@@ -735,7 +735,7 @@ gFameCheckerPersonName_Bruno:: @ 0x81B0845
 gFameCheckerPersonQuote_Bruno:: @ 0x81B0851
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: BRUNO\n"
 	.string "To: {PLAYER}\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The super power of your AVIMON\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}The super power of your Avimon\n"
 	.string "and you I've experienced myself.\p"
 	.string "Next time, maybe I should show you\n"
 	.string "how to train yourself.$"
@@ -759,7 +759,7 @@ gFameCheckerPersonQuote_Lance:: @ 0x81B098B
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}I'm considering going back to my\n"
 	.string "hometown.\p"
 	.string "I want to retrain my DRAGON-type\n"
-	.string "AVIMON and strengthen them.\p"
+	.string "Avimon and strengthen them.\p"
 	.string "I'd like to invite you to my\n"
 	.string "hometown one day.$"
 
@@ -772,7 +772,7 @@ gFameCheckerPersonQuote_Bill:: @ 0x81B0A50
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Hey, there! CELIO had nothing but\n"
 	.string "praise for you.\p"
 	.string "Hearing that makes me happy.\p"
-	.string "When you catch some rare AVIMON,\n"
+	.string "When you catch some rare Avimon,\n"
 	.string "come show me, okay? Promise!$"
 
 gFameCheckerPersonName_MrFuji:: @ 0x81B0AFF
@@ -782,9 +782,9 @@ gFameCheckerPersonQuote_MrFuji:: @ 0x81B0B0E
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}From: MR. FUJI\n"
 	.string "To: {PLAYER}\p"
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Instead of hoping for the happiness\n"
-	.string "of just your AVIMON…\p"
+	.string "of just your Avimon…\p"
 	.string "…Can I get you to wish for the\n"
-	.string "happiness of all AVIMON?$"
+	.string "happiness of all Avimon?$"
 
 gFameCheckerPersonName_Giovanni:: @ 0x81B0BA6
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}GIOVANNI$"
@@ -810,7 +810,7 @@ gFameCheckerFlavorTextOriginLocation_ProfOak3::
 	.string "VIRIDIAN CITY$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak4::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_ProfOak5::
 	.string "RESEARCH LAB$"
@@ -960,10 +960,10 @@ gFameCheckerFlavorTextOriginLocation_Blaine5::
 	.string "RESORT GORGEOUS$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei0::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei1::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Lorelei2::
 	.string "FOUR ISLAND$"
@@ -978,10 +978,10 @@ gFameCheckerFlavorTextOriginLocation_Lorelei5::
 	.string "FOUR ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno0::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno1::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Bruno2::
 	.string "SAFFRON CITY$"
@@ -996,7 +996,7 @@ gFameCheckerFlavorTextOriginLocation_Bruno5::
 	.string "SEVAULT CANYON$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha0::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha1::
 	.string "INDIGO PLATEAU$"
@@ -1008,16 +1008,16 @@ gFameCheckerFlavorTextOriginLocation_Agatha3::
 	.string "SEVEN ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha4::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Agatha5::
 	.string "SIX ISLAND$"
 
 gFameCheckerFlavorTextOriginLocation_Lance0::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Lance1::
-	.string "AVIMON LEAGUE$"
+	.string "Avimon LEAGUE$"
 
 gFameCheckerFlavorTextOriginLocation_Lance2::
 	.string "SAFFRON CITY$"
@@ -1053,7 +1053,7 @@ gFameCheckerFlavorTextOriginLocation_MrFuji0::
 	.string "LAVENDER TOWN$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji1::
-	.string "AVIMON TOWER$"
+	.string "Avimon TOWER$"
 
 gFameCheckerFlavorTextOriginLocation_MrFuji2::
 	.string "LAVENDER TOWN$"
@@ -1095,7 +1095,7 @@ gFameCheckerFlavorTextOriginObjectName_ProfOak2::
 	.string "AIDE$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak3::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_ProfOak4::
 	.string "AGATHA$"
@@ -1113,13 +1113,13 @@ gFameCheckerFlavorTextOriginObjectName_Daisy2::
 	.string "MAN$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy3::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy4::
 	.string "OLD LADY$"
 
 gFameCheckerFlavorTextOriginObjectName_Daisy5::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock0::
 	.string "SIGN$"
@@ -1137,7 +1137,7 @@ gFameCheckerFlavorTextOriginObjectName_Brock4::
 	.string "MAN$"
 
 gFameCheckerFlavorTextOriginObjectName_Brock5::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty0::
 	.string "SIGN$"
@@ -1155,7 +1155,7 @@ gFameCheckerFlavorTextOriginObjectName_Misty4::
 	.string "DAME$"
 
 gFameCheckerFlavorTextOriginObjectName_Misty5::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge0::
 	.string "SIGN$"
@@ -1173,7 +1173,7 @@ gFameCheckerFlavorTextOriginObjectName_LtSurge4::
 	.string "DWAYNE$"
 
 gFameCheckerFlavorTextOriginObjectName_LtSurge5::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika0::
 	.string "SIGN$"
@@ -1191,7 +1191,7 @@ gFameCheckerFlavorTextOriginObjectName_Erika4::
 	.string "ERIKA$"
 
 gFameCheckerFlavorTextOriginObjectName_Erika5::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga0::
 	.string "SIGN$"
@@ -1206,7 +1206,7 @@ gFameCheckerFlavorTextOriginObjectName_Koga3::
 	.string "CHARINE$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga4::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Koga5::
 	.string "MAN$"
@@ -1224,7 +1224,7 @@ gFameCheckerFlavorTextOriginObjectName_Sabrina3::
 	.string "SABRINA$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina4::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Sabrina5::
 	.string "TYRON$"
@@ -1245,7 +1245,7 @@ gFameCheckerFlavorTextOriginObjectName_Blaine4::
 	.string "PHOTO$"
 
 gFameCheckerFlavorTextOriginObjectName_Blaine5::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei0::
 	.string "LORELEI$"
@@ -1257,7 +1257,7 @@ gFameCheckerFlavorTextOriginObjectName_Lorelei2::
 	.string "OLD MAN$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei3::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Lorelei4::
 	.string "LITTLE GIRL$"
@@ -1272,7 +1272,7 @@ gFameCheckerFlavorTextOriginObjectName_Bruno1::
 	.string "BRUNO$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno2::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Bruno3::
 	.string "CRUSHER$"
@@ -1293,7 +1293,7 @@ gFameCheckerFlavorTextOriginObjectName_Agatha2::
 	.string "CRUSHER$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha3::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Agatha4::
 	.string "AGATHA$"
@@ -1314,7 +1314,7 @@ gFameCheckerFlavorTextOriginObjectName_Lance3::
 	.string "LITTLE GIRL$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance4::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Lance5::
 	.string "YOUNG MAN$"
@@ -1353,7 +1353,7 @@ gFameCheckerFlavorTextOriginObjectName_MrFuji4::
 	.string "PHOTO$"
 
 gFameCheckerFlavorTextOriginObjectName_MrFuji5::
-	.string "AVIMON JOURNAL$"
+	.string "Avimon JOURNAL$"
 
 gFameCheckerFlavorTextOriginObjectName_Giovanni0::
 	.string "GIOVANNI$"
@@ -1374,55 +1374,55 @@ gFameCheckerFlavorTextOriginObjectName_Giovanni5::
 	.string "GIDEON$"
 
 PokemonJournal_Text_SpecialFeatureBrock::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: PEWTER GYM\n"
 	.string "LEADER BROCK!\p"
 	.string "BROCK rarely laughs, but is said to\n"
 	.string "be unable to stop if he starts.$"
 
 PokemonJournal_Text_SpecialFeatureMisty::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: CERULEAN GYM\n"
 	.string "LEADER MISTY!\p"
 	.string "MISTY is said to worship LORELEI\n"
 	.string "of the ELITE FOUR.$"
 
 PokemonJournal_Text_SpecialFeatureLtSurge::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: VERMILION GYM\n"
 	.string "LEADER LT. SURGE!\p"
 	.string "LT. SURGE is rumored to have been\n"
 	.string "a pilot while home in America.\p"
 	.string "He used the electricity generated\n"
-	.string "by AVIMON to power his plane.$"
+	.string "by Avimon to power his plane.$"
 
 PokemonJournal_Text_SpecialFeatureErika::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: CELADON GYM\n"
 	.string "LEADER ERIKA!\p"
 	.string "Rumor has it that if you peek into\n"
 	.string "CELADON GYM, you can often\l"
-	.string "see ERIKA snoozing.$"
+	.string "spot ERIKA snoozing.$"
 
 PokemonJournal_Text_SpecialFeatureKoga::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: FUCHSIA GYM\n"
 	.string "LEADER KOGA!\p"
 	.string "KOGA is said to have a thorough\n"
 	.string "knowledge of medicine.\p"
 	.string "He even concocts medicine to nurse\n"
-	.string "his AVIMON to health.$"
+	.string "his Avimon to health.$"
 
 PokemonJournal_Text_SpecialFeatureSabrina::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: SAFFRON GYM\n"
 	.string "LEADER SABRINA!\p"
 	.string "People say that SABRINA can\n"
-	.string "communicate with her AVIMON\l"
+	.string "communicate with her Avimon\l"
 	.string "during territory clash without speaking.$"
 
 PokemonJournal_Text_SpecialFeatureBlaine::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: CINNABAR GYM\n"
 	.string "LEADER BLAINE!\p"
 	.string "BLAINE is said to remove his dark\n"
@@ -1430,7 +1430,7 @@ PokemonJournal_Text_SpecialFeatureBlaine::
 	.string "new quiz questions.$"
 
 PokemonJournal_Text_SpecialFeatureLorelei::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature:\n"
 	.string "ELITE FOUR's LORELEI!\p"
 	.string "Known for her logical, calculated,\n"
@@ -1438,7 +1438,7 @@ PokemonJournal_Text_SpecialFeatureLorelei::
 	.string "has a surprising secret!$"
 
 PokemonJournal_Text_SpecialFeatureBruno::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature:\n"
 	.string "ELITE FOUR's BRUNO!\p"
 	.string "BRUNO apparently joined the ELITE\n"
@@ -1446,7 +1446,7 @@ PokemonJournal_Text_SpecialFeatureBruno::
 	.string "territory clash the best BIRD KEEPERS.$"
 
 PokemonJournal_Text_SpecialFeatureAgatha::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature:\n"
 	.string "ELITE FOUR's AGATHA!\p"
 	.string "In her youth, AGATHA and PROF.\n"
@@ -1454,7 +1454,7 @@ PokemonJournal_Text_SpecialFeatureAgatha::
 	.string "supremacy as BIRD KEEPERS.$"
 
 PokemonJournal_Text_SpecialFeatureLance::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature:\n"
 	.string "ELITE FOUR's LANCE!\p"
 	.string "LANCE's grandfather is thought to\n"
@@ -1462,25 +1462,25 @@ PokemonJournal_Text_SpecialFeatureLance::
 	.string "dragon masters.$"
 
 PokemonJournal_Text_SpecialFeatureProfOak::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature: PROF. OAK,\n"
-	.string "the AVIMON Researcher!\p"
+	.string "the Avimon Researcher!\p"
 	.string "PROF. OAK reportedly lives with his\n"
 	.string "grandchildren DAISY and {RIVAL}.$"
 
 PokemonJournal_Text_SpecialFeatureDaisyOak::
-	.string "This is an AVIMON JOURNAL from\n"
+	.string "This is an Avimon JOURNAL from\n"
 	.string "years ago…\p"
-	.string "AVIMON JOURNAL\n"
+	.string "Avimon JOURNAL\n"
 	.string "CONTEST Special!\p"
-	.string "The Spring AVIMON CONTEST's\n"
+	.string "The Spring Avimon CONTEST's\n"
 	.string "Grand Champion is DAISY OAK of\l"
 	.string "PALLET TOWN!$"
 
 PokemonJournal_Text_SpecialFeatureMrFuji::
-	.string "AVIMON JOURNAL\p"
+	.string "Avimon JOURNAL\p"
 	.string "Special Feature:\n"
-	.string "MR. FUJI of AVIMON HOUSE!\p"
+	.string "MR. FUJI of Avimon HOUSE!\p"
 	.string "Editor: The shy MR. FUJI turned\n"
 	.string "down our interview requests.\p"
 	.string "He is a kindly man who is adored\n"

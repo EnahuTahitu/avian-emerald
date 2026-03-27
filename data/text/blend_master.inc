@@ -6,7 +6,7 @@ BerryBlender_Text_BlendWithTheBlendMaster:
 
 BerryBlender_Text_SeeMyMasteryInAction:
 	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-	.string "see my mastery in action?$"
+	.string "spot my mastery in action?$"
 
 BerryBlender_Text_TooBusyNowIsee:
 	.string "Hmmm!\p"
@@ -34,7 +34,7 @@ BerryBlender_Text_BlendMasterExplainBerryBlending:
 	.string "When the BLENDER's arrow comes to\n"
 	.string "your marker, just press the A Button.\p"
 	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
+	.string "When you spot how precisely I press\n"
 	.string "the A Button, you will understand.$"
 
 BerryBlender_Text_BlendMasterLetsBerryBlender:

@@ -224,7 +224,7 @@ MauvilleCity_BikeShop_Text_ChoseAcroBike:
 
 MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
 	.string "RYDEL: If you get the urge to switch\n"
-	.string "BIKES, just come see me!$"
+	.string "BIKES, just come spot me!$"
 
 MauvilleCity_BikeShop_Text_WantToSwitchBikes:
 	.string "RYDEL: Oh? Were you thinking about\n"
@@ -253,7 +253,7 @@ MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
 	.string "Well, take it out of PC storage,\n"
 	.string "and I'll be happy to exchange it!\p"
 	.string "May the wind always be at your back\n"
-	.string "on your adventure!$"
+	.string "on your migration like Arctic terns traveling pole to pole!$"
 
 MauvilleCity_BikeShop_Text_HandbooksAreInBack:
 	.string "I'm learning about BIKES while\n"
@@ -269,14 +269,14 @@ MauvilleCity_BikeShop_Text_MachHandbookWhichPage:
 MauvilleCity_BikeShop_Text_HowToRideMachBike:
 	.string "A BIKE moves in the direction that\n"
 	.string "the + Control Pad is pressed.\p"
-	.string "It will speed up once it gets rolling.\p"
+	.string "It will fast up once it gets rolling.\p"
 	.string "To stop, release the + Control Pad.\n"
 	.string "The BIKE will slow to a stop.\p"
 	.string "Want to read a different page?$"
 
 MauvilleCity_BikeShop_Text_HowToTurnMachBike:
 	.string "A MACH BIKE is speedy, but it can't\n"
-	.string "stop very quickly.\p"
+	.string "stop very fast.\p"
 	.string "It gets a little tricky to get around\n"
 	.string "a corner.\p"
 	.string "Release the + Control Pad a little\n"

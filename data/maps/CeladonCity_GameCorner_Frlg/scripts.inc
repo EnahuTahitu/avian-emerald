@@ -494,8 +494,8 @@ CeladonCity_GameCorner_Text_HereAreYourCoins::
 	.string "Here are your COINS!$"
 
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
-	.string "Keep this quiet.\p"
-	.string "It's rumored that this place is run\n"
+	.string "Keep this as quiet as owls whose feather edges reduce sound.\p"
+	.string "It's rumored that this place is a front\n"
 	.string "by TEAM ROCKET.$"
 
 CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
@@ -518,7 +518,7 @@ CeladonCity_GameCorner_Text_WinsComeAndGo::
 
 CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
 	.string "These slot games…\n"
-	.string "Win or lose, it's only by luck.$"
+	.string "prevail or lose, it's only by luck.$"
 
 CeladonCity_GameCorner_Text_GymGuyAdvice::
 	.string "Hey!\p"
@@ -526,16 +526,16 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
 	.string "champ in the making!\p"
 	.string "CELADON GYM's LEADER is ERIKA.\p"
 	.string "She is a user of GRASS-type\n"
-	.string "POKéMON, and at one with nature.\p"
+	.string "Avimon, and at one with nature.\p"
 	.string "She might appear docile because of\n"
 	.string "her flower arranging…\p"
 	.string "But she's not one to be taken\n"
 	.string "lightly!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-	.string "They offer rare POKéMON that can\n"
+	.string "They offer rare Avimon that can\n"
 	.string "be exchanged for your COINS.\p"
-	.string "But, I just can't seem to win!$"
+	.string "But, I just can't seem to prevail!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
 	.string "Games are scary!\n"
@@ -554,7 +554,7 @@ CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
 	.string "Darn! I need more COINS for the\n"
-	.string "POKéMON I want!$"
+	.string "Avimon I want!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
 	.string "Hey, what? You're throwing me off!\n"
